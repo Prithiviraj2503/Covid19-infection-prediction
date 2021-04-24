@@ -1,0 +1,893 @@
+reporting date,location,country,gender,age,symptom_onset,If_onset_approximated,hosp_visit_date,exposure_start,exposure_end,Nearby Covid zone,from covid zone,symptom,Confirmed
+1/20/2020,"Shenzhen, Guangdong",China,male,66,03-01-2020,0,11-01-2020 00:00,29-12-2019,04-01-2020,1,0,"fatigue, fever, headache",negative
+1/20/2020,Shanghai,China,female,56,15-01-2020,0,15-01-2020 00:00,,12-01-2020,0,1,"cough, runny nose, diarrhea",may infected
+1/21/2020,Zhejiang,China,male,46,04-01-2020,0,17-01-2020 00:00,,03-01-2020,0,1,fever,negative
+1/21/2020,Tianjin,China,female,60,,,19-01-2020 00:00,,,1,0,fever,negative
+1/21/2020,Tianjin,China,male,58,,,14-01-2020 00:00,,,0,0,respiratory symptoms,positive
+1/21/2020,Chongqing,China,female,44,15-01-2020,0,,,,0,1,fever,negative
+1/21/2020,Sichuan,China,male,34,11-01-2020,0,,,,0,1,fever,negative
+1/21/2020,Beijing,China,male,37,14-01-2020,0,20-01-2020 00:00,10-01-2020,11-01-2020,1,0,"fever, respiratory symptoms",may infected
+1/21/2020,Beijing,China,male,39,09-01-2020,0,14-01-2020 00:00,03-01-2020,04-01-2020,1,0,"fever, respiratory symptoms",may infected
+1/21/2020,Beijing,China,male,56,16-01-2020,0,20-01-2020 00:00,08-01-2020,16-01-2020,1,0,fever,negative
+1/21/2020,Beijing,China,female,18,19-01-2020,0,20-01-2020 00:00,12-01-2020,17-01-2020,1,0,"cough, runny nose, diarrhea",positive
+1/21/2020,Beijing,China,female,32,15-01-2020,0,20-01-2020 00:00,13-01-2020,17-01-2020,1,0,fever,negative
+1/21/2020,Shandong,China,male,37,,,17-01-2020 00:00,,,1,0,"cough, sore throat",negative
+1/21/2020,Yunnan,China,male,51,16-01-2020,0,,,15-01-2020,0,1,"fever, cough, sore throat",may infected
+1/22/2020,Sichuan,China,male,57,16-01-2020,0,,,15-01-2020,0,1,"sore throat, fever, diarrhea",negative
+1/22/2020,Jiangxi,China,male,56,10-01-2020,0,,20-12-2019,09-01-2020,1,0,"cough, malaise",positive
+1/22/2020,Jiangxi,China,male,50,10-01-2020,0,,,02-01-2020,1,0,"fever, cough",negative
+1/22/2020,Macau,China,female,52,14-01-2020,0,22-01-2020 00:00,,,0,1,"fever, cough",negative
+1/22/2020,Liaoning,China,male,33,11-01-2020,0,17-01-2020 00:00,,,1,0,"fever, cough",may infected
+1/22/2020,Liaoning,China,male,40,14-01-2020,0,19-01-2020 00:00,,12-01-2020,1,0,"fever, cough",negative
+1/22/2020,Fujian,China,male,70,,,20-01-2020 00:00,,17-01-2020,1,0,"cough, chills, shortness of breath, diarrhea",negative
+1/22/2020,Guizhou,China,male,51,14-01-2020,0,14-01-2020 00:00,,,0,1,fever,negative
+1/22/2020,Shanxi,China,male,,19-01-2020,0,20-01-2020 00:00,12-01-2020,15-01-2020,1,0,"cough, chills, joint pain",negative
+1/22/2020,Sichuan,China,female,28,19-01-2020,0,,,17-01-2020,1,0,"fever, cough",positive
+1/22/2020,Sichuan,China,male,37,20-01-2020,0,,,18-01-2020,1,0,"fever, cough",positive
+1/22/2020,Sichuan,China,male,19,20-01-2020,0,,,13-01-2020,1,0,"throat pain, fever",negative
+1/22/2020,Ningxia,China,male,29,,,19-01-2020 00:00,,,1,0,fever,may infected
+1/22/2020,Guangxi,China,female,66,17-01-2020,0,17-01-2020 00:00,,16-01-2020,0,1,"fever, cough",positive
+1/22/2020,Guangxi,China,male,46,20-01-2020,0,,,,0,0,fever,negative
+1/22/2020,Henan,China,female,32,,,,,18-01-2020,0,1,"feaver, cough, difficult in breathing",may infected
+1/22/2020,Henan,China,male,28,,,,09-01-2020,19-01-2020,1,0,"feaver, cough, difficult in breathing",positive
+1/22/2020,Henan,China,male,55,,,,,11-01-2020,0,1,"fever, cough",negative
+1/22/2020,Henan,China,male,68,,,13-01-2020 00:00,,11-01-2020,0,1,cough with sputum,may infected
+1/22/2020,Shandong,China,male,38,20-01-2020,0,,,,0,0,cough,may infected
+1/22/2020,Hebei,China,male,72,19-01-2020,0,,,18-01-2020,0,1,"fatigue, fever, headache",negative
+1/22/2020,Beijing,China,male,45,19-01-2020,0,21-01-2020 00:00,11-01-2020,14-01-2020,1,0,"fever, malaise",negative
+1/22/2020,Beijing,China,male,42,20-01-2020,0,,11-01-2020,18-01-2020,1,0,"fever, cough",negative
+1/22/2020,Beijing,China,female,33,,,20-01-2020 00:00,,,0,1,"fever, cough",negative
+1/22/2020,Beijing,China,female,33,,,20-01-2020 00:00,,18-01-2020,0,1,"fever, cough, malaise",positive
+1/22/2020,Jiangsu,China,male,37,,,,,10-01-2020,1,0,"throat discomfort, cough, chest pain",negative
+1/23/2020,Heilongjiang,China,male,69,,,,,12-01-2020,1,0,"fever, cough, sputum, dyspnea",negative
+1/23/2020,Guangxi,China,male,63,14-01-2020,0,21-01-2020 00:00,,20-01-2020,0,1,"fever, cough, sputum, dyspnea",negative
+1/23/2020,Guangxi,China,female,62,09-01-2020,0,21-01-2020 00:00,,15-01-2020,0,1,"fever, cough, sputum",may infected
+1/23/2020,Guangxi,China,male,49,21-01-2020,0,21-01-2020 00:00,,20-01-2020,0,1,"fever, thirst",positive
+1/22/2020,Sichuan,China,male,50,18-01-2020,0,,,12-01-2020,1,0,fever,positive
+1/22/2020,Sichuan,China,male,48,18-01-2020,0,,,10-01-2020,1,0,"fever, cough, runny nose",positive
+1/22/2020,Sichuan,China,male,36,18-01-2020,0,,,17-01-2020,1,0,"fever, cough, malaise",may infected
+1/22/2020,Jilin,China,female,36,19-01-2020,0,,,19-01-2020,1,0,"fever, cough, sore throat, runny nose",positive
+1/22/2020,"Wuhan, Hubei",China,male,61,20-12-2019,0,27-12-2019 00:00,,,0,1,"malaise, fever, headache",negative
+1/22/2020,"Wuhan, Hubei",China,male,69,30-12-2019,0,03-01-2020 00:00,,,0,1,"throat pain, chills",negative
+1/22/2020,"Wuhan, Hubei",China,male,89,08-01-2020,0,,,,0,1,fever,may infected
+1/22/2020,"Wuhan, Hubei",China,male,89,13-01-2020,0,13-01-2020 00:00,,,0,1,"fever, cough",negative
+1/22/2020,"Wuhan, Hubei",China,male,66,10-01-2020,0,16-01-2020 00:00,,,0,1,"cough, chills, shortness of breath, diarrhea",negative
+1/22/2020,"Wuhan, Hubei",China,male,75,12-01-2020,0,11-01-2020 00:00,,,0,1,fever,may infected
+1/22/2020,"Wuhan, Hubei",China,female,48,10-12-2019,0,,,,0,1,cough,negative
+1/22/2020,"Wuhan, Hubei",China,male,82,09-01-2020,0,14-01-2020 00:00,,,0,1,"fever, respiratory distress",may infected
+1/22/2020,"Wuhan, Hubei",China,male,66,22-12-2019,0,31-12-2019 00:00,,,0,1,"fever, malaise",negative
+1/22/2020,"Wuhan, Hubei",China,male,81,15-01-2020,0,18-01-2020 00:00,,,0,1,"fever, malaise",negative
+1/22/2020,"Wuhan, Hubei",China,female,82,,,06-01-2020 00:00,,,0,1,"fever, sore throat",negative
+1/22/2020,"Wuhan, Hubei",China,male,65,05-01-2020,0,11-01-2020 00:00,,,0,1,"mild cough, sputum, throat discomfort",negative
+1/22/2020,"Wuhan, Hubei",China,female,80,09-01-2020,0,18-01-2020 00:00,,,0,1,"cough, sneeze",negative
+1/22/2020,"Wuhan, Hubei",China,male,53,,,13-01-2020 00:00,,,0,1,"fever, chills, joint pain, heavy head",positive
+1/22/2020,"Wuhan, Hubei",China,male,86,02-01-2020,,09-01-2020 00:00,,,0,1,"fatigue, fever",positive
+1/22/2020,"Wuhan, Hubei",China,female,70,,,13-01-2020 00:00,,,0,1,sore throat,positive
+1/22/2020,"Wuhan, Hubei",China,male,84,06-01-2020,0,09-01-2020 00:00,,,0,1,fever,negative
+1/22/2020,Liaoning,China,female,50,16-01-2020,0,,,15-01-2020,1,0,fever,negative
+1/22/2020,Hunan,China,male,40,05-01-2020,0,20-01-2020 00:00,,,1,0,,negative
+1/22/2020,Hunan,China,male,45,16-01-2020,0,21-01-2020 00:00,,,1,0,fever,positive
+1/22/2020,Hunan,China,female,66,17-01-2020,0,21-01-2020 00:00,,,1,0,"fever, cough",negative
+1/22/2020,Hunan,China,male,59,16-01-2020,0,21-01-2020 00:00,,,1,0,"fever, runny nose",negative
+1/22/2020,Hunan,China,female,23,16-01-2020,0,21-01-2020 00:00,,,1,0,fever,negative
+1/22/2020,Guizhou,China,female,50,14-01-2020,0,22-01-2020 00:00,10-01-2020,12-01-2020,0,0,fever,negative
+1/23/2020,Gansu,China,male,43,18-01-2020,0,21-01-2020 00:00,11-01-2020,17-01-2020,0,0,fever,may infected
+1/23/2020,Heilongjiang,China,male,49,23-01-2020,0,,,23-01-2020,1,0,"headache, fever, malaise",negative
+1/23/2020,Shanxi (??),China,male,42,20-01-2020,0,21-01-2020 00:00,12-01-2020,15-01-2020,1,0,"sore throat, fever",negative
+1/23/2020,Shanxi (??),China,female,32,16-01-2020,0,20-01-2020 00:00,12-01-2020,14-01-2020,1,0,fever,positive
+1/23/2020,Shanxi (??),China,male,22,20-01-2020,0,21-01-2020 00:00,15-01-2020,17-01-2020,1,0,cough,positive
+1/23/2020,Xinjiang,China,male,47,,,,15-01-2020,20-01-2020,1,0,"fever, malaise",positive
+1/23/2020,Xinjiang,China,male,52,,,,,19-01-2020,1,0,"fever, cough",positive
+1/23/2020,Yunnan,China,male,53,,,,,16-01-2020,0,1,"fever, cough",negative
+1/23/2020,Tianjin,China,male,46,,,,,,0,0,"fever, cough, malaise",negative
+1/23/2020,Hubei,China,female,85,,,,,,0,0,"throat discomfort, cough, chest pain",positive
+1/23/2020,Hubei,China,female,69,14-01-2020,0,20-01-2020 00:00,,,0,0,"fever, cough, sputum, dyspnea",negative
+1/23/2020,Hubei,China,male,36,06-01-2020,0,09-01-2020 00:00,,,0,0,"fever, cough, sputum, dyspnea",may infected
+1/23/2020,Hubei,China,male,73,29-12-2019,0,05-01-2020 00:00,,,0,0,"fever, cough, sputum",negative
+1/23/2020,Hubei,China,female,70,15-01-2020,0,18-01-2020 00:00,,,0,0,"fever, thirst",may infected
+1/23/2020,Hubei,China,male,81,09-01-2020,0,13-01-2020 00:00,,,0,0,fever,positive
+1/23/2020,Hubei,China,female,65,,,15-01-2020 00:00,,,0,0,"fever, cough, runny nose",may infected
+1/23/2020,Liaoning,China,male,42,19-01-2020,0,22-01-2020 00:00,,18-01-2020,1,0,"fever, cough, malaise",negative
+1/24/2020,Inner Mongolia,China,male,30,,,20-01-2020 00:00,,21-01-2020,0,1,"fever, malaise",positive
+1/24/2020,Tianjin,China,female,29,24-01-2020,0,24-01-2020 00:00,,23-01-2020,1,0,"fever, cough",positive
+1/24/2020,Beijing,China,female,,,,,,08-01-2020,1,0,"fever, cough",negative
+1/24/2020,Shaanxi,China,male,49,19-01-2020,0,19-01-2020 00:00,,19-01-2020,1,0,"fever, cough, malaise",positive
+1/24/2020,Shaanxi,China,male,23,,,22-01-2020 00:00,,22-01-2020,1,0,"throat discomfort, cough, chest pain",negative
+1/24/2020,Shanghai,China,female,56,10-01-2020,0,15-01-2020 00:00,,12-01-2020,0,1,"fever, cough, sputum, dyspnea",negative
+1/24/2020,Tianjin,China,male,39,,,,,,1,0,"fever, cough, sputum, dyspnea",may infected
+1/24/2020,Yunnan,China,female,39,,,22-01-2020 00:00,17-12-2019,15-01-2020,1,0,"fever, cough, sputum",negative
+1/24/2020,Yunnan,China,female,34,,,23-01-2020 00:00,,20-01-2020,0,1,"fever, thirst",negative
+1/24/2020,Yunnan,China,male,49,,,23-01-2020 00:00,,,0,0,fever,may infected
+1/24/2020,"Wuhan, Hubei",China,male,70,15-01-2020,0,19-01-2020 00:00,,,0,1,"fever, cough, runny nose",negative
+1/24/2020,"Wuhan, Hubei",China,female,76,08-01-2020,0,,,,0,1,"fever, cough, malaise",negative
+1/24/2020,"Wuhan, Hubei",China,male,72,11-01-2020,0,18-01-2020 00:00,,,0,1,"fever, cough, sore throat, runny nose",positive
+1/24/2020,"Wuhan, Hubei",China,male,79,11-01-2020,0,17-01-2020 00:00,,,0,1,"malaise, fever, headache",positive
+1/24/2020,"Wuhan, Hubei",China,male,55,09-01-2020,0,19-01-2020 00:00,,,0,1,"throat pain, chills",positive
+1/24/2020,"Wuhan, Hubei",China,male,87,12-01-2020,0,19-01-2020 00:00,,,0,1,fever,positive
+1/24/2020,"Wuhan, Hubei",China,female,66,09-01-2020,0,19-01-2020 00:00,,,0,1,"fever, cough",may infected
+1/24/2020,"Wuhan, Hubei",China,male,58,03-01-2020,0,18-01-2020 00:00,,,0,1,"cough, chills, shortness of breath, diarrhea",may infected
+1/24/2020,"Wuhan, Hubei",China,male,66,,,11-01-2020 00:00,,,0,1,fever,may infected
+1/24/2020,"Wuhan, Hubei",China,male,78,13-01-2020,0,23-01-2020 00:00,,,0,1,cough,may infected
+1/24/2020,"Wuhan, Hubei",China,male,67,10-01-2020,0,15-01-2020 00:00,,,0,1,"fever, respiratory distress",positive
+1/24/2020,"Wuhan, Hubei",China,male,65,12-01-2020,0,16-01-2020 00:00,,,0,1,"fever, malaise",may infected
+1/24/2020,"Wuhan, Hubei",China,male,58,23-12-2019,0,01-01-2020 00:00,,,0,1,"fever, malaise",negative
+1/24/2020,"Wuhan, Hubei",China,female,67,05-01-2020,0,12-01-2020 00:00,,,0,1,"fever, sore throat",negative
+1/24/2020,"Wuhan, Hubei",China,female,82,10-01-2020,0,17-01-2020 00:00,,,0,1,"mild cough, sputum, throat discomfort",may infected
+1/25/2020,"Hechi, Guangxi",China,female,49,21-01-2020,0,22-01-2020 00:00,,15-01-2020,1,0,"cough, sneeze",negative
+1/25/2020,"Hechi, Guangxi",China,female,2,22-01-2020,0,23-01-2020 00:00,,21-01-2020,1,0,"fever, chills, joint pain, heavy head",positive
+1/25/2020,Beijing,China,male,,,,,,08-01-2020,1,0,"fatigue, fever",negative
+1/21/2020,Tianjin,China,female,59,14-01-2020,0,,,,1,0,sore throat,negative
+1/21/2020,Tianjin,China,male,57,18-01-2020,0,,,,1,0,fever,may infected
+1/22/2020,Tianjin,China,female,68,14-01-2020,0,,,,1,0,fever,negative
+1/22/2020,Tianjin,China,male,40,14-01-2020,0,,,,1,0,,negative
+1/23/2020,Tianjin,China,male,46,15-01-2020,0,17-01-2020 00:00,,,0,0,fever,positive
+1/24/2020,Tianjin,China,male,56,19-01-2020,0,23-01-2020 00:00,,,0,0,"fever, cough",negative
+1/24/2020,Tianjin,China,female,29,24-01-2020,0,24-01-2020 00:00,,23-01-2020,1,0,"fever, runny nose",negative
+1/24/2020,Tianjin,China,male,29,23-01-2020,0,24-01-2020 00:00,19-01-2020,22-01-2020,1,0,fever,may infected
+1/25/2020,Tianjin,China,male,57,24-01-2020,,24-01-2020 00:00,,17-01-2020,1,0,fever,may infected
+1/25/2020,Tianjin,China,male,30,24-01-2020,0,24-01-2020 00:00,18-01-2020,20-01-2020,1,0,fever,negative
+1/25/2020,Gansu,China,female,33,18-01-2020,0,23-01-2020 00:00,,18-01-2020,1,0,"headache, fever, malaise",may infected
+1/25/2020,Gansu,China,female,20,19-01-2020,0,24-01-2020 00:00,,18-01-2020,0,1,"sore throat, fever",negative
+1/25/2020,Shaanxi,China,female,24,19-01-2020,0,,,21-01-2020,1,0,fever,negative
+1/25/2020,Shaanxi,China,male,28,21-01-2020,0,23-01-2020 00:00,,20-01-2020,1,0,cough,may infected
+1/25/2020,Shaanxi,China,male,41,14-01-2020,0,23-01-2020 00:00,06-01-2020,07-01-2020,1,0,"fever, malaise",negative
+1/25/2020,Shaanxi,China,male,46,23-01-2020,0,,,20-01-2020,0,1,"fever, cough",may infected
+1/25/2020,Shaanxi,China,female,45,23-01-2020,0,,,20-01-2020,0,1,"fever, cough",positive
+1/25/2020,Shaanxi,China,female,9,21-01-2020,0,,,20-01-2020,0,1,"fever, cough, malaise",positive
+1/25/2020,Shaanxi,China,male,40,23-01-2020,0,23-01-2020 00:00,,23-01-2020,1,0,"throat discomfort, cough, chest pain",positive
+1/25/2020,Shaanxi,China,male,28,20-01-2020,0,23-01-2020 00:00,09-01-2020,22-01-2020,1,0,"fever, cough, sputum, dyspnea",positive
+1/25/2020,Shaanxi,China,male,27,21-01-2020,0,21-01-2020 00:00,,18-01-2020,1,0,"fever, cough, sputum, dyspnea",positive
+1/25/2020,Shaanxi,China,male,15,21-01-2020,0,23-01-2020 00:00,,23-01-2020,1,0,"fever, cough, sputum",negative
+1/25/2020,Yunnan,China,female,42,,,23-01-2020 00:00,,18-01-2020,1,0,"fever, thirst",positive
+1/25/2020,Yunnan,China,male,24,,,22-01-2020 00:00,,21-01-2020,1,0,fever,positive
+1/25/2020,Yunnan,China,female,32,,,24-01-2020 00:00,,16-01-2020,0,1,"fever, cough, runny nose",positive
+1/25/2020,Yunnan,China,male,34,,,23-01-2020 00:00,,20-01-2020,0,1,"fever, cough, malaise",positive
+1/25/2020,Yunnan,China,male,63,,,23-01-2020 00:00,,21-01-2020,0,1,"fever, respiratory distress",may infected
+1/25/2020,Yunnan,China,male,58,,,24-01-2020 00:00,09-01-2020,20-01-2020,1,0,"fever, malaise",may infected
+1/21/2020,Beijing,China,male,,16-01-2020,0,20-01-2020 00:00,08-01-2020,16-01-2020,1,0,"fever, malaise",may infected
+1/21/2020,Beijing,China,male,,14-01-2020,0,20-01-2020 00:00,10-01-2020,11-01-2020,1,0,"fever, sore throat",may infected
+1/25/2020,Beijing,China,male,,18-01-2020,0,20-01-2020 00:00,14-01-2020,14-01-2020,0,0,"mild cough, sputum, throat discomfort",negative
+1/25/2020,Xinjiang,China,male,49,21-01-2020,0,21-01-2020 00:00,,,0,0,"cough, sneeze",may infected
+1/25/2020,Ningxia,China,male,33,22-01-2020,0,24-01-2020 00:00,11-01-2020,22-01-2020,1,0,"fever, chills, joint pain, heavy head",negative
+1/25/2020,Tianjin,China,female,55,23-01-2020,0,23-01-2020 00:00,,,0,0,"fatigue, fever",negative
+1/25/2020,Tianjin,China,female,79,24-01-2020,0,24-01-2020 00:00,,,0,0,sore throat,positive
+1/25/2020,Tianjin,China,female,19,19-01-2020,0,20-01-2020 00:00,,,0,0,fever,positive
+1/25/2020,Macau,China,female,58,23-01-2020,0,23-01-2020 00:00,,23-01-2020,0,1,"fever, cough",positive
+1/25/2020,Macau,China,female,39,25-01-2020,0,25-01-2020 00:00,,22-01-2020,0,1,"fever, cough",may infected
+1/25/2020,Macau,China,female,21,25-01-2020,0,25-01-2020 00:00,,23-01-2020,0,1,"fever, cough",negative
+1/25/2020,Shaanxi,China,female,30,,,,,,0,0,"fever, cough",may infected
+1/25/2020,Shaanxi,China,female,64,10-01-2020,0,20-01-2020 00:00,,14-01-2020,1,0,fever,may infected
+1/25/2020,Shaanxi,China,male,44,18-01-2020,0,24-01-2020 00:00,20-01-2020,21-01-2020,1,0,"cough, runny nose, diarrhea",negative
+1/25/2020,Shaanxi,China,female,70,23-01-2020,0,,,,0,1,fever,negative
+1/25/2020,Shaanxi,China,female,52,,,,,23-01-2020,0,0,"cough, sore throat",negative
+1/25/2020,Shaanxi,China,female,32,17-01-2020,0,22-01-2020 00:00,12-01-2020,14-01-2020,0,0,"fever, cough, sore throat",may infected
+1/25/2020,Shaanxi,China,male,33,,,,,,0,0,"sore throat, fever, diarrhea",negative
+1/26/2020,Tianjin,China,male,71,25-01-2020,0,25-01-2020 00:00,,19-01-2020,0,1,"cough, malaise",negative
+1/26/2020,Yunnan,China,male,31,,,24-01-2020 00:00,,20-01-2020,0,1,"fever, cough",negative
+1/26/2020,Yunnan,China,female,48,,,24-01-2020 00:00,,22-01-2020,0,1,"fever, cough",negative
+1/26/2020,Yunnan,China,female,19,,,24-01-2020 00:00,,15-01-2020,1,0,"fever, cough",negative
+1/26/2020,Yunnan,China,female,68,,,24-01-2020 00:00,,20-01-2020,0,1,"fever, cough",negative
+1/26/2020,Yunnan,China,male,71,,,24-01-2020 00:00,,20-01-2020,0,1,"cough, chills, shortness of breath, diarrhea",positive
+1/27/2020,Beijing,China,male,35,18-01-2020,0,21-01-2020 00:00,,,0,,fever,positive
+1/27/2020,Beijing,China,female,4,18-01-2020,0,21-01-2020 00:00,,,0,,"cough, chills, joint pain",positive
+1/27/2020,Beijing,China,male,38,22-01-2020,0,25-01-2020 00:00,,,1,,"fever, cough",may infected
+1/27/2020,Beijing,China,female,69,10-01-2020,0,22-01-2020 00:00,,,1,,"fever, cough",may infected
+1/26/2020,Tianjin,China,male,50,25-01-2020,0,26-01-2020 00:00,,23-01-2020,1,0,"throat pain, fever",negative
+1/26/2020,Tianjin,China,male,78,21-01-2020,0,23-01-2020 00:00,,,0,0,fever,positive
+1/26/2020,Tianjin,China,male,49,26-01-2020,0,26-01-2020 00:00,,,0,0,fever,positive
+1/26/2020,Guizhou,China,male,34,,,,,,1,0,fever,may infected
+1/26/2020,Jilin,China,male,,25-01-2020,0,25-01-2020 00:00,19-01-2020,19-01-2020,1,0,fever,may infected
+1/26/2020,Yunnan,China,female,55,,,24-01-2020 00:00,,22-01-2020,0,1,"fever, cough",positive
+1/26/2020,Yunnan,China,female,36,,,24-01-2020 00:00,,22-01-2020,0,1,chills,may infected
+1/26/2020,Yunnan,China,male,65,,,21-01-2020 00:00,,13-01-2020,0,1,fever,negative
+1/26/2020,Jiangxi,China,male,38,,,23-01-2020 00:00,03-01-2020,05-01-2020,1,0,cough,positive
+1/27/2020,Shaanxi,China,female,36,21-01-2020,0,25-01-2020 00:00,,21-01-2020,0,1,"fever, respiratory distress",may infected
+1/27/2020,Shaanxi,China,male,18,20-01-2020,0,23-01-2020 00:00,,22-01-2020,0,1,"fever, malaise",positive
+1/27/2020,Shaanxi,China,male,50,18-01-2020,0,22-01-2020 00:00,13-01-2020,17-01-2020,1,0,"fever, malaise",positive
+1/27/2020,Shaanxi,China,female,40,18-01-2020,0,22-01-2020 00:00,13-01-2020,17-01-2020,1,0,"fever, sore throat",may infected
+1/27/2020,Shaanxi,China,female,63,10-01-2020,0,24-01-2020 00:00,,15-01-2020,0,1,"mild cough, sputum, throat discomfort",positive
+1/27/2020,Shaanxi,China,female,47,21-01-2020,0,23-01-2020 00:00,,23-01-2020,0,1,"cough, sneeze",positive
+1/27/2020,Shaanxi,China,female,42,23-01-2020,0,24-01-2020 00:00,19-01-2020,19-01-2020,1,0,"fever, chills, joint pain, heavy head",may infected
+1/27/2020,Shaanxi,China,male,48,17-01-2020,0,19-01-2020 00:00,,,0,0,"fatigue, fever",negative
+1/27/2020,Shaanxi,China,male,39,23-01-2020,0,23-01-2020 00:00,,22-01-2020,1,0,sore throat,negative
+1/27/2020,Shaanxi,China,female,41,22-01-2020,0,22-01-2020 00:00,,18-01-2020,1,0,fever,negative
+1/27/2020,Shaanxi,China,male,31,,,21-01-2020 00:00,,21-01-2020,0,1,fever,positive
+1/27/2020,Shaanxi,China,male,27,22-01-2020,0,24-01-2020 00:00,,18-01-2020,0,1,fever,may infected
+1/27/2020,Hubei,China,female,28,07-01-2020,0,10-01-2020 00:00,,,0,1,"feaver, cough, difficult in breathing",may infected
+1/27/2020,Hubei,China,female,51,,,11-01-2020 00:00,,,0,1,"feaver, cough, difficult in breathing",may infected
+1/27/2020,Shandong,China,male,37,,,17-01-2020 00:00,,,0,1,fever,positive
+1/25/2020,Bordeaux,France,male,48,23-01-2020,0,23-01-2020 00:00,,22-01-2020,1,0,"fever, respiratory symptoms",may infected
+1/28/2020,Paris,France,male,80,25-01-2020,1,25-01-2020 00:00,,23-01-2020,0,1,fever,negative
+1/29/2020,Paris,France,female,,,,,,23-01-2020,1,0,"cough, sore throat",negative
+1/30/2020,Paris,France,,,,,,,,0,0,"fever, cough, sore throat",negative
+02-08-2020,France,France,,9,,,,24-01-2020,28-01-2020,0,0,"sore throat, fever, diarrhea",may infected
+02-08-2020,France,France,,,,,,24-01-2020,28-01-2020,0,0,"cough, malaise",negative
+02-08-2020,France,France,,,,,,24-01-2020,28-01-2020,0,0,"fever, cough",negative
+02-08-2020,France,France,,,,,,24-01-2020,28-01-2020,0,0,"fever, cough",may infected
+02-08-2020,France,France,,,,,,24-01-2020,28-01-2020,0,0,"fever, cough",positive
+2/15/2020,France,France,,,,,,24-01-2020,28-01-2020,0,0,"fever, cough",may infected
+2/25/2020,Paris,France,female,33,,,,,,0,0,"cough, chills, shortness of breath, diarrhea",may infected
+2/25/2020,Annecy,France,male,63,,,,,,0,0,fever,may infected
+2/26/2020,Amiens,France,male,55,,,,,,0,0,"cough, chills, joint pain",negative
+2/26/2020,Strasbourg,France,male,36,,,,,,0,0,"fever, cough",negative
+2/26/2020,Paris,France,male,60,,,,,,0,0,"fever, cough",may infected
+2/26/2020,Annecy,France,female,60,,,,,,0,0,"throat pain, fever",negative
+2/27/2020,Paris,France,,,,,,,,0,0,fever,may infected
+2/27/2020,Paris,France,,,,,,,,0,0,fever,may infected
+2/27/2020,Saint-Mande,France,,,,,,,,0,0,fever,negative
+2/27/2020,Saint-Mande,France,,,,,,,,0,0,fever,positive
+2/27/2020,Saint-Mande,France,,,,,,,,0,0,"fever, cough",negative
+2/27/2020,Saint-Mande,France,,,,,,,,0,0,chills,negative
+2/27/2020,Saint-Mande,France,,,,,,,,0,0,fever,negative
+2/27/2020,Dijon,France,,,,,,,,0,0,cough,negative
+2/27/2020,Dijon,France,,,,,,,,0,0,"fever, respiratory distress",negative
+2/27/2020,Dijon,France,,,,,,,,0,0,"fever, malaise",negative
+2/27/2020,Lile,France,male,,,,,,,0,0,"fever, malaise",positive
+2/27/2020,Nantes,France,female,58,,,,,,0,0,"fever, sore throat",negative
+2/27/2020,Montpellier,France,male,31,,,27-02-2020 00:00,,,0,0,"mild cough, sputum, throat discomfort",positive
+2/27/2020,Paris,France,,,,,,,,0,0,"cough, sneeze",positive
+2/27/2020,Brest,France,male,72,,,,,,0,0,"fever, chills, joint pain, heavy head",may infected
+2/27/2020,Dijon,France,male,,,,,,,0,0,"fatigue, fever",positive
+2/27/2020,Lyon,France,male,50,,,26-02-2020 00:00,,,0,0,sore throat,negative
+2/27/2020,Annecy,France,,65,,,,,,0,0,fever,negative
+2/27/2020,Annecy,France,female,35,,,,,,0,0,fever,may infected
+2/27/2020,Bois-Guillaume,France,male,,24-02-2020,0,,,,0,0,"fever, runny nose",may infected
+2/28/2020,Nice,France,female,23,,,,,,0,0,"fever, cough",may infected
+1/24/2020,Tokyo,Japan,male,45,14-01-2020,0,15-01-2020 00:00,,19-01-2020,0,1,,negative
+1/25/2020,Tokyo,Japan,female,35,21-01-2020,0,23-01-2020 00:00,,18-01-2020,0,1,,negative
+1/26/2020,Aichi Prefecture,Japan,male,45,23-01-2020,0,24-01-2020 00:00,,22-01-2020,0,1,,positive
+1/28/2020,Aichi Prefecture,Japan,male,45,22-01-2020,0,26-01-2020 00:00,,20-01-2020,0,1,fever,negative
+1/28/2020,Nara Prefecture,Japan,male,65,14-01-2020,0,17-01-2020 00:00,08-01-2020,16-01-2020,0,0,"cough, chills, joint pain",positive
+1/28/2020,Hokkaido,Japan,female,45,26-01-2020,0,27-01-2020 00:00,,21-01-2020,1,1,"fever, cough",negative
+1/29/2020,Osaka Prefecture,Japan,female,45,20-01-2020,0,20-01-2020 00:00,12-01-2020,17-01-2020,0,0,"fever, cough",positive
+1/30/2020,Tokyo,Japan,male,55,29-01-2020,0,,,29-01-2020,0,1,"throat pain, fever",positive
+1/30/2020,Mie,Japan,male,55,25-01-2020,0,27-01-2020 00:00,24-12-2019,13-01-2020,1,0,fever,positive
+1/30/2020,Japan,Japan,female,35,24-01-2020,0,24-01-2020 00:00,19-01-2020,20-01-2020,1,0,"fever, cough",positive
+1/30/2020,Kyoto,Japan,female,25,23-01-2020,0,28-01-2020 00:00,17-01-2020,18-01-2020,1,0,fever,positive
+1/31/2020,Haneda,Japan,female,25,20-01-2020,0,29-01-2020 00:00,17-01-2020,22-01-2020,1,0,"feaver, cough, difficult in breathing",negative
+02-01-2020,Japan,Japan,male,45,,,,,31-01-2020,1,0,"feaver, cough, difficult in breathing",positive
+02-01-2020,Japan,Japan,male,45,26-01-2020,0,30-01-2020 00:00,,31-01-2020,1,0,fever,may infected
+02-01-2020,Japan,Japan,male,35,,,,,31-01-2020,1,0,,positive
+02-04-2020,Chiba Prefecture,Japan,female,35,30-01-2020,0,31-01-2020 00:00,,,0,1,"fever, runny nose",negative
+02-04-2020,Chiba Prefecture,Japan,female,55,31-01-2020,0,31-01-2020 00:00,19-01-2020,19-01-2020,1,0,"fever, cough",negative
+02-04-2020,Japan,Japan,male,55,25-01-2020,0,26-01-2020 00:00,,22-01-2020,0,1,fever,negative
+02-05-2020,Chiba Prefecture,Japan,male,45,24-01-2020,0,27-01-2020 00:00,,,0,1,,negative
+02-05-2020,Kyoto,Japan,male,25,24-01-2020,0,27-01-2020 00:00,,,0,0,fever,negative
+02-05-2020,Japan,Japan,male,55,,,,,,0,1,,positive
+02-08-2020,Japan,Japan,male,25,,,,,,0,1,,negative
+02-10-2020,Japan,Japan,male,45,08-02-2020,0,10-02-2020 00:00,,30-01-2020,1,0,fever,negative
+02-10-2020,Japan,Japan,male,55,07-02-2020,0,07-02-2020 00:00,,30-01-2020,0,1,"fever, cough",negative
+,Japan,Japan,,,,,,,,0,0,,negative
+2/13/2020,Kanagawa,Japan,female,85,22-01-2020,0,28-01-2020 00:00,,,0,0,fatigue,positive
+2/13/2020,Tokyo,Japan,male,75,29-01-2020,0,29-01-2020 00:00,,,0,0,fever,negative
+2/13/2020,Wakayama Prefecture,Japan,male,55,31-01-2020,0,08-02-2020 00:00,,,0,0,"fever, abdominal pain, diarrhea",negative
+2/13/2020,Chiba Prefecture,Japan,male,25,02-02-2020,0,10-02-2020 00:00,,,0,0,"fever, cough",negative
+2/14/2020,Japan,Japan,male,75,01-02-2020,0,06-02-2020 00:00,,,0,0,"cold, fever, pneumonia",negative
+2/14/2020,Okinawa Prefecture,Japan,female,65,05-02-2020,0,12-02-2020 00:00,,,0,0,"cough, joint pain",negative
+2/14/2020,Tokyo,Japan,female,55,04-02-2020,0,07-02-2020 00:00,,,0,0,"vomiting, diarrhea, fever, cough",negative
+2/14/2020,Tokyo,Japan,male,75,20-01-2020,0,21-01-2020 00:00,,,0,0,"fever, loss of appetite",negative
+2/14/2020,Aichi Prefecture,Japan,male,65,03-02-2020,0,08-02-2020 00:00,,,0,0,fever,may infected
+2/14/2020,Hokkaido,Japan,male,55,31-01-2020,0,2//2020,,,0,0,"fever, cough, malaise",negative
+2/14/2020,Kanagawa,Japan,male,35,11-02-2020,0,10-02-2020 00:00,,,0,0,fever,may infected
+2/15/2020,Wakayama Prefecture,Japan,male,55,04-02-2020,0,06-02-2020 00:00,,,0,0,fever,may infected
+2/15/2020,Wakayama Prefecture,Japan,female,55,07-02-2020,0,,,,0,0,"fever, cough",may infected
+2/15/2020,Wakayama Prefecture,Japan,male,65,,,,,,0,0,"fever, headache",may infected
+2/15/2020,Aichi Prefecture,Japan,female,65,13-02-2020,0,14-02-2020 00:00,,,0,0,"fever, runny nose",may infected
+2/15/2020,Tokyo,Japan,female,65,,,,,,0,0,"fever, cough",may infected
+2/15/2020,Tokyo,Japan,male,45,,,,,,0,0,fever,negative
+2/16/2020,Tokyo,Japan,male,65,,,,,,0,0,"fatigue, difficulty breathing",negative
+2/16/2020,Tokyo,Japan,male,35,03-02-2020,0,04-02-2020 00:00,,,0,0,"fever, malaise",negative
+2/16/2020,Aichi Prefecture,Japan,male,65,15-02-2020,0,15-02-2020 00:00,,,0,0,fever,positive
+2/16/2020,Nara Prefecture,Japan,male,65,06-02-2020,0,07-02-2020 00:00,,,0,0,"fever, malaise",negative
+2/17/2020,Aichi Prefecture,Japan,male,65,17-02-2020,0,17-02-2020 00:00,,,0,0,"fever, malaise",negative
+2/17/2020,Wakayama Prefecture,Japan,female,85,,,17-02-2020 00:00,,,0,0,"fever, runny nose",negative
+2/17/2020,Wakayama Prefecture,Japan,female,55,,,17-02-2020 00:00,,,0,0,"fever, cough",may infected
+2/17/2020,Wakayama Prefecture,Japan,male,55,03-02-2020,0,04-02-2020 00:00,,,0,0,fever,may infected
+2/17/2020,Wakayama Prefecture,Japan,male,55,07-02-2020,0,07-02-2020 00:00,,,0,0,fever,may infected
+2/17/2020,Wakayama Prefecture,Japan,female,45,14-02-2020,0,14-02-2020 00:00,,,0,0,"fever, vomiting, diarrhea",negative
+2/18/2020,Wakayama Prefecture,Japan,male,65,16-02-2020,0,11-02-2020 00:00,,,0,0,fever,negative
+2/18/2020,Wakayama Prefecture,Japan,male,35,16-02-2020,0,17-02-2020 00:00,,,0,0,fever,negative
+2/18/2020,Tokyo,Japan,male,85,09-02-2020,0,,,,0,0,"fever, pneumonia",negative
+2/18/2020,Japan,Japan,male,25,07-02-2020,0,,,,0,0,fever,negative
+2/18/2020,Japan,Japan,male,55,05-02-2020,0,,,,0,0,"fever, cough, sputum, malaise",negative
+2/18/2020,Aichi Prefecture,Japan,male,65,,,,,,0,0,,negative
+2/19/2020,Sagamihara,Japan,male,85,,,,,,0,0,,negative
+2/19/2020,Sagamihara,Japan,male,75,14-02-2020,0,,10-02-2020,18-02-2020,0,0,"fever, cough",may infected
+2/19/2020,Kanagawa,Japan,male,65,03-02-2020,0,05-02-2020 00:00,,,0,0,fever,may infected
+2/19/2020,Sapporo,Japan,male,45,08-02-2020,0,13-02-2020 00:00,,,0,0,"fatigue, muscle pain, joint pain, fever",positive
+2/19/2020,Hokkaido,Japan,male,65,03-02-2020,0,07-02-2020 00:00,,,0,0,"fever, sore throat",negative
+2/19/2020,Okinawa Prefecture,Japan,male,65,11-02-2020,0,18-02-2020 00:00,,,0,0,"fever, breathlessness, malaise",negative
+2/19/2020,Tokyo,Japan,male,75,04-02-2020,0,,,,0,0,"cough, malaise, shortness of breath",negative
+2/19/2020,Tokyo,Japan,female,75,04-02-2020,0,,,,0,0,"cough, malaise, shortness of breath",negative
+2/19/2020,Tokyo,Japan,female,75,03-02-2020,0,,,,0,0,"cough, sputum, dyspnea",negative
+2/19/2020,Nagoya City,Japan,female,55,17-02-2020,0,17-02-2020 00:00,,,0,0,"fever, malaise",negative
+2/19/2020,Japan,Japan,male,55,,,,,17-02-2020,0,0,,negative
+2/20/2020,Fukuoka Prefecture,Japan,male,65,13-02-2020,0,13-02-2020 00:00,,,0,0,"fever, pneumonia",negative
+2/20/2020,Hokkaido,Japan,male,45,,,,,,0,0,,may infected
+2/20/2020,Chiba Prefecture,Japan,female,75,14-02-2020,0,15-02-2020 00:00,,,0,0,fever,may infected
+2/20/2020,Okinawa Prefecture,Japan,male,85,06-02-2020,0,17-02-2020 00:00,,,0,0,"fever, malaise, diarrhea, cough",may infected
+2/20/2020,Japan,Japan,,,,,,,,0,0,,may infected
+2/20/2020,Japan,Japan,,,,,,,,0,0,,may infected
+2/20/2020,Nagoya City,Japan,male,85,19-02-2020,0,19-02-2020 00:00,,,0,0,fever,may infected
+2/20/2020,Sagamihara,Japan,male,85,14-02-2020,0,,11-01-2020,,0,0,fever,negative
+2/20/2020,Fukuoka Prefecture,Japan,female,65,,,,,,0,0,,negative
+2/22/2020,Kumamoto City,Japan,female,25,17-02-2020,0,18-02-2020 00:00,,,0,0,"cough, fever, headache, nausea, vomiting, diarrhea",negative
+2/22/2020,Kumamoto City,Japan,male,55,20-02-2020,0,21-02-2020 00:00,,,0,0,"cough, fever",negative
+2/22/2020,Kumamoto Prefecture,Japan,male,65,15-02-2020,0,19-02-2020 00:00,,,0,0,"fatigue, cold, fever, vomiting",negative
+2/22/2020,Wakayama Prefecture,Japan,male,45,02-02-2020,0,02-02-2020 00:00,,,0,0,"fever, fatigue, cough, diarrhea",may infected
+2/22/2020,Chiba Prefecture,Japan,female,65,12-02-2020,0,12-02-2020 00:00,,,0,0,nausea,may infected
+2/22/2020,Japan,Japan,female,55,16-02-2020,0,19-02-2020 00:00,,,0,0,"fatigue, joint pain, fever",may infected
+2/22/2020,Hokkaido,Japan,female,75,06-02-2020,0,10-02-2020 00:00,,,0,0,"cough, sputum",positive
+2/22/2020,Hokkaido,Japan,male,85,03-02-2020,0,03-02-2020 00:00,,,0,0,difficulty breathing,negative
+2/22/2020,Hokkaido,Japan,male,75,16-02-2020,0,20-02-2020 00:00,,,0,0,"fever, cough, malaise",negative
+2/22/2020,Hokkaido,Japan,female,55,17-02-2020,0,19-02-2020 00:00,,,0,0,,negative
+2/22/2020,Hokkaido,Japan,male,65,10-02-2020,0,10-02-2020 00:00,,,0,0,fever,positive
+2/22/2020,Hokkaido,Japan,female,55,15-02-2020,0,16-02-2020 00:00,,,0,0,"fatigue, malaise, headache",positive
+2/22/2020,Hokkaido,Japan,female,15,06-02-2020,0,07-02-2020 00:00,,,0,0,"fever, sore throat, malaise",positive
+2/22/2020,Hokkaido,Japan,female,55,13-02-2020,0,15-02-2020 00:00,,,0,0,"sore throat, cough, fever",positive
+2/22/2020,Tokyo,Japan,male,65,12-02-2020,0,,,,0,0,"fever, cough",negative
+2/22/2020,Nagoya City,Japan,female,65,19-02-2020,0,21-02-2020 00:00,,,0,0,"fever, nasal discharge, headache",negative
+2/22/2020,Nagoya City,Japan,female,46,20-02-2020,0,21-02-2020 00:00,,,0,0,fever,negative
+2/22/2020,Nagoya City,Japan,male,65,20-02-2020,0,21-02-2020 00:00,,,0,0,"fever, cough, malaise",negative
+2/22/2020,Nagoya City,Japan,male,65,20-02-2020,0,21-02-2020 00:00,,,0,0,fever,negative
+2/22/2020,Japan,Japan,female,65,21-02-2020,0,22-02-2020 00:00,,,0,0,fever,negative
+2/22/2020,Sagamihara,Japan,male,55,16-02-2020,0,17-02-2020 00:00,,,0,0,fever,may infected
+2/22/2020,Hokkaido,Japan,male,55,17-02-2020,0,18-02-2020 00:00,,,0,0,"fever, difficulty breathing",may infected
+2/23/2020,Sapporo,Japan,male,75,,0,,,,0,0,,may infected
+2/23/2020,Nagoya City,Japan,female,75,22-02-2020,0,22-02-2020 00:00,,,0,0,fever,negative
+2/23/2020,Nagoya City,Japan,male,75,21-02-2020,0,22-02-2020 00:00,,,0,0,"fever, cough",positive
+2/23/2020,Chiba Prefecture,Japan,male,45,12-02-2020,0,18-02-2020 00:00,,,0,0,"joint pain, muscle pain, cough, malaise",negative
+2/23/2020,Hokkaido,Japan,male,35,,,,,,0,0,fever,negative
+2/23/2020,Hokkaido,Japan,female,65,,,,,,0,0,"cough, chills, joint pain",negative
+2/23/2020,Hokkaido,Japan,male,25,,,,,,0,0,"fever, cough",negative
+2/23/2020,Hokkaido,Japan,male,75,,,,,,0,0,"fever, cough",negative
+2/23/2020,Hokkaido,Japan,female,35,,,,,,0,0,"throat pain, fever",positive
+2/23/2020,Hokkaido,Japan,male,85,,,,,,0,0,fever,may infected
+2/23/2020,Hokkaido,Japan,female,45,,,,,,0,0,"fever, cough",may infected
+2/23/2020,Hokkaido,Japan,female,25,,,,,,0,0,fever,negative
+2/23/2020,Ishikawa,Japan,female,55,,,,,,0,0,"feaver, cough, difficult in breathing",negative
+2/23/2020,Sagamihara,Japan,male,55,16-02-2020,0,17-02-2020 00:00,,,0,0,"feaver, cough, difficult in breathing",may infected
+2/24/2020,Ishikawa,Japan,male,65,16-02-2020,0,17-02-2020 00:00,,,0,0,fever,may infected
+2/24/2020,Sapporo,Japan,female,75,21-02-2020,0,22-02-2020 00:00,,,0,0,"fever, cough",negative
+2/24/2020,Sapporo,Japan,male,55,14-02-2020,0,17-02-2020 00:00,,,0,0,chills,negative
+2/24/2020,Hokkaido,Japan,female,25,18-02-2020,0,23-02-2020 00:00,,,0,0,fever,negative
+2/24/2020,Hokkaido,Japan,male,55,17-02-2020,0,20-02-2020 00:00,,,0,0,cough,positive
+2/24/2020,Kanagawa,Japan,male,55,14-02-2020,0,17-02-2020 00:00,,,0,0,"fever, respiratory distress",negative
+2/24/2020,Tokyo,Japan,male,45,13-02-2020,0,,,,0,0,"fever, malaise",negative
+2/24/2020,Tokyo,Japan,male,55,19-02-2020,0,,,,0,0,"fever, malaise",positive
+2/24/2020,Tokyo,Japan,male,35,18-02-2020,0,,,,0,0,"fever, sore throat",positive
+2/24/2020,Sagamihara,Japan,female,55,20-02-2020,0,,,,0,0,"mild cough, sputum, throat discomfort",negative
+2/24/2020,Sagamihara,Japan,female,25,21-02-2020,0,,,,0,0,"cough, sneeze",negative
+2/24/2020,Sagamihara,Japan,female,25,19-02-2020,0,19-02-2020 00:00,,,0,0,"fever, chills, joint pain, heavy head",negative
+2/25/2020,Nagano Prefecture,Japan,male,65,20-02-2020,0,21-02-2020 00:00,,,0,0,"fatigue, fever",may infected
+2/25/2020,Kumamoto City,Japan,male,55,20-02-2020,0,24-02-2020 00:00,,,0,0,sore throat,negative
+2/25/2020,Kumamoto City,Japan,female,65,25-02-2020,0,25-02-2020 00:00,,,0,0,fever,may infected
+2/25/2020,Sapporo,Japan,female,65,17-02-2020,0,17-02-2020 00:00,,,0,0,fever,negative
+2/25/2020,Ishikawa,Japan,female,55,,,,,,0,0,,positive
+2/25/2020,Nagoya City,Japan,female,75,20-02-2020,0,21-02-2020 00:00,,,0,0,fever,may infected
+2/25/2020,Nagoya City,Japan,female,75,23-02-2020,0,23-02-2020 00:00,,,0,0,"fever, cough",may infected
+2/25/2020,Nagoya City,Japan,female,45,23-02-2020,0,23-02-2020 00:00,,,0,0,"fever, runny nose",positive
+2/26/2020,Chiba Prefecture,Japan,male,55,22-02-2020,0,25-02-2020 00:00,12-02-2020,18-02-2020,0,0,fever,negative
+2/26/2020,Chiba Prefecture,Japan,male,65,22-02-2020,0,24-02-2020 00:00,,20-02-2020,0,0,fever,negative
+2/26/2020,Chiba Prefecture,Japan,male,75,12-02-2020,0,,,21-02-2020,0,0,fever,positive
+2/26/2020,Hokkaido,Japan,male,25,17-02-2020,0,18-02-2020 00:00,,,0,0,"headache, fever, malaise",may infected
+2/26/2020,Hokkaido,Japan,female,25,19-02-2020,0,24-02-2020 00:00,,,0,0,"sore throat, fever",may infected
+2/26/2020,Hokkaido,Japan,male,75,23-02-2020,0,,,,0,0,fever,positive
+2/26/2020,Hokkaido,Japan,,,16-02-2020,0,17-02-2020 00:00,,,0,0,cough,negative
+2/26/2020,Hokkaido,Japan,female,75,17-02-2020,0,20-02-2020 00:00,,,0,0,"fever, malaise",negative
+2/26/2020,Hokkaido,Japan,female,75,16-02-2020,0,16-02-2020 00:00,,,0,0,"fever, cough",positive
+2/26/2020,Hokkaido,Japan,male,45,24-02-2020,0,24-02-2020 00:00,,,0,0,"fever, cough",may infected
+2/26/2020,Kanagawa,Japan,male,65,,,26-02-2020 00:00,,,0,0,"fever, cough, malaise",positive
+2/26/2020,Osaka Prefecture,Japan,female,45,06-02-2020,0,06-02-2020 00:00,,,0,0,"throat discomfort, cough, chest pain",negative
+2/26/2020,Tokyo,Japan,male,85,22-02-2020,0,,,,0,0,"fever, cough, sputum, dyspnea",positive
+2/26/2020,Tokyo,Japan,male,75,12-02-2020,0,,,,0,0,"fever, cough, sputum, dyspnea",may infected
+2/26/2020,Tokyo,Japan,male,75,14-02-2020,0,,,,0,0,"fever, cough, sputum",may infected
+2/26/2020,Nagoya City,Japan,male,55,24-02-2020,0,25-02-2020 00:00,,,0,0,"fever, thirst",negative
+2/26/2020,Nagoya City,Japan,male,65,25-02-2020,0,25-02-2020 00:00,,,0,0,fever,positive
+2/26/2020,Nagoya City,Japan,male,75,24-02-2020,0,25-02-2020 00:00,,,0,0,"fever, cough, runny nose",negative
+2/26/2020,Nagoya City,Japan,male,75,23-02-2020,0,25-02-2020 00:00,,,0,0,"fever, cough, malaise",may infected
+2/26/2020,Nagoya City,Japan,female,75,24-02-2020,0,24-02-2020 00:00,,,0,0,"fever, cough, sore throat, runny nose",negative
+2/27/2020,Gifu Prefecture,Japan,male,55,14-02-2020,0,15-02-2020 00:00,,,0,0,"malaise, fever, headache",positive
+2/27/2020,Gifu Prefecture,Japan,female,55,23-02-2020,0,26-02-2020 00:00,20-02-2020,24-02-2020,0,0,"throat pain, chills",positive
+2/27/2020,Ishikawa,Japan,male,55,16-02-2020,0,17-02-2020 00:00,,,0,0,fever,may infected
+2/27/2020,Kanagawa,Japan,male,55,20-02-2020,0,20-02-2020 00:00,,,0,0,"fever, headache, malaise",may infected
+2/27/2020,Tokyo,Japan,female,60,10-02-2020,0,,,,0,0,"fever, cough, sputum",may infected
+2/27/2020,Osaka Prefecture,Japan,male,45,20-02-2020,0,26-02-2020 00:00,,,0,0,"fever, cough, headache",negative
+2/27/2020,Hokkaido,Japan,male,55,25-02-2020,0,25-02-2020 00:00,,,0,0,,negative
+2/27/2020,Hokkaido,Japan,male,55,25-02-2020,0,25-02-2020 00:00,,,0,0,"cough, malaise",may infected
+2/27/2020,Hokkaido,Japan,male,35,17-02-2020,0,18-02-2020 00:00,,,0,0,fever,may infected
+2/27/2020,Hokkaido,Japan,male,75,16-02-2020,0,20-02-2020 00:00,,,0,0,"fatigue, fever",negative
+2/27/2020,Hokkaido,Japan,male,65,18-02-2020,0,22-02-2020 00:00,,,0,0,"sore throat, fever, joint pain, dyspnea",positive
+2/27/2020,Hokkaido,Japan,male,45,15-02-2020,0,17-02-2020 00:00,,,0,0,"vomiting, cough, fever, sore throat",negative
+2/27/2020,Hokkaido,Japan,male,45,21-02-2020,0,21-02-2020 00:00,,,0,0,fever,may infected
+2/27/2020,Hokkaido,Japan,male,5,21-02-2020,0,24-02-2020 00:00,,,0,0,"fever, cough",may infected
+2/27/2020,Hokkaido,Japan,male,35,24-02-2020,0,25-02-2020 00:00,,,0,0,"fever, headache, malaise, joint pain",may infected
+2/27/2020,Hokkaido,Japan,male,5,21-02-2020,0,22-02-2020 00:00,,,0,0,"fever, cough",negative
+2/27/2020,Hokkaido,Japan,male,85,24-02-2020,0,24-02-2020 00:00,,,0,0,"fever, cough",positive
+2/27/2020,Hokkaido,Japan,male,35,20-02-2020,0,23-02-2020 00:00,,,0,0,"cough, fever, joint pain",negative
+2/27/2020,Hokkaido,Japan,male,85,22-02-2020,0,24-02-2020 00:00,,,0,0,"cough, fever",negative
+2/27/2020,Hokkaido,Japan,male,65,22-02-2020,0,22-02-2020 00:00,,,0,0,"fever, malaise, sore throat",may infected
+2/27/2020,Hokkaido,Japan,female,45,24-02-2020,0,,,,0,0,"cough, sore throat",may infected
+2/27/2020,Nagoya City,Japan,female,65,26-02-2020,0,26-02-2020 00:00,,,0,0,fever,positive
+2/27/2020,Nagoya City,Japan,male,65,26-02-2020,0,26-02-2020 00:00,,,0,0,"fever, cough, headache",negative
+2/15/2020,Singapore,Singapore,male,25,01-02-2020,0,10-02-2020 00:00,,,0,0,"cough, runny nose, diarrhea",may infected
+2/15/2020,Singapore,Singapore,male,40,10-02-2020,0,11-02-2020 00:00,,,0,0,fever,may infected
+2/16/2020,Singapore,Singapore,male,29,12-02-2020,0,12-02-2020 00:00,,,0,0,"fever, cough, sore throat",positive
+2/16/2020,Singapore,Singapore,female,71,,,,,,0,0,"sore throat, fever, diarrhea",negative
+2/18/2020,Singapore,Singapore,female,57,09-02-2020,0,10-02-2020 00:00,,,0,0,"fever, cough",negative
+2/18/2020,Singapore,Singapore,female,35,12-02-2020,0,17-02-2020 00:00,,,0,0,"fever, cough",negative
+2/18/2020,Singapore,Singapore,female,38,04-02-2020,0,04-02-2020 00:00,,,0,0,"fever, cough",negative
+2/19/2020,Singapore,Singapore,male,36,14-02-2020,0,14-02-2020 00:00,,,0,0,"fever, cough",negative
+2/21/2020,Singapore,Singapore,male,24,14-02-2020,0,16-02-2020 00:00,,,0,0,"throat pain, fever",positive
+02-09-2020,South Korea,South Korea,male,51,,,,,31-01-2020,0,0,,negative
+02-09-2020,South Korea,South Korea,female,37,,,,,31-01-2020,0,0,,negative
+02-11-2020,South Korea,South Korea,female,30,,,,,,0,0,,negative
+2/16/2020,South Korea,South Korea,male,82,,,15-02-2020 00:00,,,0,0,chest discomfort,negative
+2/17/2020,South Korea,South Korea,female,68,06-02-2020,0,,,,0,0,"cough, chill, muscle pain",positive
+2/18/2020,South Korea,South Korea,female,61,07-02-2020,0,17-02-2020 00:00,,,0,0,fever,negative
+2/19/2020,South Korea,South Korea,female,11,08-02-2020,0,,,,0,0,,negative
+2/19/2020,South Korea,South Korea,female,40,,,,,,0,0,,negative
+2/19/2020,South Korea,South Korea,male,24,,,,,,0,0,,positive
+2/19/2020,South Korea,South Korea,female,26,,,,,,0,0,"fever, respiratory symptoms",negative
+2/19/2020,South Korea,South Korea,female,48,,,,,,0,0,fever,positive
+2/19/2020,South Korea,South Korea,female,57,,,,,,0,0,fever,positive
+2/19/2020,South Korea,South Korea,female,61,,,,,,0,0,"cough, sore throat",negative
+2/19/2020,South Korea,South Korea,male,77,11-02-2020,0,,,,0,0,"fever, cough, sore throat",negative
+2/19/2020,South Korea,South Korea,female,69,,,,,,0,0,"sore throat, fever, diarrhea",positive
+2/19/2020,South Korea,South Korea,female,29,,,,,,0,0,"cough, malaise",negative
+2/19/2020,South Korea,South Korea,female,58,,,,,,0,0,"fever, cough",positive
+2/19/2020,South Korea,South Korea,female,46,,,,,,0,0,"fever, cough",negative
+2/19/2020,South Korea,South Korea,female,54,,,,,,0,0,"fever, cough",negative
+2/19/2020,South Korea,South Korea,male,28,,,,,,0,0,"fever, cough",may infected
+2/19/2020,South Korea,South Korea,female,63,,,,,,0,0,"cough, chills, shortness of breath, diarrhea",negative
+2/19/2020,South Korea,South Korea,female,72,,,,,,0,0,fever,negative
+2/19/2020,South Korea,South Korea,male,58,,,,,,0,0,"cough, chills, joint pain",positive
+2/19/2020,South Korea,South Korea,male,76,,,,,,0,0,"fever, cough",positive
+2/20/2020,South Korea,South Korea,male,24,,,,,,0,0,"throat pain, fever",negative
+2/20/2020,South Korea,South Korea,female,38,,,,,,0,0,fever,negative
+2/20/2020,South Korea,South Korea,male,57,,,,,,0,0,,may infected
+2/20/2020,South Korea,South Korea,male,59,,,,,,0,0,,may infected
+2/20/2020,South Korea,South Korea,male,75,,,,,,0,0,,may infected
+2/20/2020,South Korea,South Korea,male,30,,,,,,0,0,fever,may infected
+2/20/2020,South Korea,South Korea,female,26,,,,,,0,0,"fever, cough",negative
+2/20/2020,South Korea,South Korea,female,34,,,,,,0,0,chills,positive
+2/20/2020,South Korea,South Korea,female,59,,,,,,0,0,fever,negative
+2/20/2020,South Korea,South Korea,female,58,,,,,,0,0,cough,positive
+2/20/2020,South Korea,South Korea,male,60,,,,,,0,0,"fever, respiratory distress",negative
+2/20/2020,South Korea,South Korea,female,59,,,,,,0,0,"fever, malaise",negative
+2/20/2020,South Korea,South Korea,male,22,,,,,,0,0,"mild cough, sputum, throat discomfort",negative
+2/20/2020,South Korea,South Korea,female,30,,,,,,0,0,"cough, sneeze",negative
+2/20/2020,South Korea,South Korea,female,56,,,,,,0,0,"fever, chills, joint pain, heavy head",negative
+2/20/2020,South Korea,South Korea,male,29,,,,,,0,0,"fatigue, fever",negative
+2/20/2020,South Korea,South Korea,female,48,,,,,,0,0,sore throat,negative
+2/20/2020,South Korea,South Korea,female,56,,,,,,0,0,fever,positive
+2/20/2020,South Korea,South Korea,female,39,,,,,,0,0,fever,may infected
+2/20/2020,South Korea,South Korea,female,20,,,,,,0,0,,may infected
+2/20/2020,South Korea,South Korea,male,49,,,,,,0,0,fever,negative
+2/20/2020,South Korea,South Korea,female,23,,,,,,0,0,"fever, cough",negative
+2/20/2020,South Korea,South Korea,male,36,,,,,,0,0,"fever, runny nose",positive
+2/20/2020,South Korea,South Korea,female,57,,,,,,0,0,fever,negative
+2/20/2020,South Korea,South Korea,male,55,,,,,,0,0,fever,negative
+2/20/2020,South Korea,South Korea,female,22,,,,,,0,0,fever,negative
+2/20/2020,South Korea,South Korea,female,34,,,,,,0,0,"headache, fever, malaise",positive
+2/20/2020,South Korea,South Korea,female,65,,,,,,0,0,"sore throat, fever",positive
+2/20/2020,South Korea,South Korea,male,64,,,,,,0,0,fever,negative
+2/20/2020,South Korea,South Korea,,,,,,,,0,0,cough,negative
+2/20/2020,South Korea,South Korea,,,,,,,,0,0,"fever, malaise",negative
+2/20/2020,South Korea,South Korea,,,,,,,,0,0,"fever, cough",negative
+2/20/2020,South Korea,South Korea,,,,,,,,0,0,"fever, cough",negative
+2/20/2020,South Korea,South Korea,,,,,,,,0,0,"fever, cough, malaise",may infected
+2/20/2020,South Korea,South Korea,,,,,,,,0,0,"throat discomfort, cough, chest pain",positive
+2/20/2020,South Korea,South Korea,,,,,,,,0,0,"fever, cough, sputum, dyspnea",negative
+2/20/2020,South Korea,South Korea,,,,,,,,0,0,"fever, cough, sputum, dyspnea",negative
+2/20/2020,South Korea,South Korea,,,,,,,,0,0,"fever, cough, sputum",negative
+2/20/2020,South Korea,South Korea,,,,,,,,0,0,"fever, thirst",positive
+2/20/2020,South Korea,South Korea,,,,,,,,0,0,fever,negative
+2/20/2020,South Korea,South Korea,,,,,,,,0,0,"fever, cough, runny nose",negative
+2/20/2020,South Korea,South Korea,,,,,,,,0,0,"fever, cough, malaise",negative
+2/20/2020,South Korea,South Korea,,,,,,,,0,0,"fever, cough, sore throat, runny nose",negative
+2/20/2020,South Korea,South Korea,,,,,,,,0,0,"malaise, fever, headache",positive
+2/20/2020,South Korea,South Korea,,,,,,,,0,0,"throat pain, chills",negative
+2/20/2020,South Korea,South Korea,,,,,,,,0,0,fever,negative
+2/20/2020,South Korea,South Korea,,,,,,,,0,0,,negative
+2/20/2020,South Korea,South Korea,,,,,,,,0,0,"fever, respiratory symptoms",negative
+2/20/2020,South Korea,South Korea,,,,,,,,0,0,fever,negative
+2/20/2020,South Korea,South Korea,,,,,,,,0,0,"cough, runny nose, diarrhea",negative
+2/20/2020,South Korea,South Korea,,,,,,,,0,0,fever,negative
+2/20/2020,South Korea,South Korea,male,67,,,,,,0,0,"cough, sore throat",negative
+2/20/2020,South Korea,South Korea,male,74,,,,,,0,0,"fever, cough, sore throat",negative
+2/21/2020,Seoul,South Korea,male,35,02-02-2020,0,,,,0,0,"sore throat, fever, diarrhea",may infected
+2/22/2020,South Korea,South Korea,male,62,,,,,,0,0,"cough, malaise",positive
+2/22/2020,South Korea,South Korea,male,58,,,,,,0,0,"fever, cough",may infected
+2/22/2020,South Korea,South Korea,male,62,02-02-2020,0,05-02-2020 00:00,,,0,0,"fever, cough",negative
+2/23/2020,South Korea,South Korea,male,41,,,,,,0,0,"fever, cough",negative
+2/23/2020,South Korea,South Korea,male,36,,,,,,0,0,"fever, cough",negative
+2/25/2020,South Korea,South Korea,female,69,,,,,,0,0,"cough, chills, shortness of breath, diarrhea",negative
+2/26/2020,South Korea,South Korea,male,75,,,,,,0,0,fever,negative
+1/21/2020,Taiwan,Taiwan,female,55,11-01-2020,0,20-01-2020 00:00,,20-01-2020,1,0,"cough, chills, joint pain",negative
+1/24/2020,Taiwan,Taiwan,female,55,23-01-2020,1,23-01-2020 00:00,,21-01-2020,1,0,"fever, cough",negative
+1/24/2020,Taiwan,Taiwan,male,55,23-01-2020,1,23-01-2020 00:00,,21-01-2020,1,0,"fever, cough",negative
+1/27/2020,Taiwan,Taiwan,female,50,22-01-2020,0,25-01-2020 00:00,13-01-2020,15-01-2020,1,0,"throat pain, fever",negative
+1/27/2020,Taiwan,Taiwan,female,50,25-01-2020,1,25-01-2020 00:00,,20-01-2020,1,0,fever,positive
+1/28/2020,Taiwan,Taiwan,female,70,25-01-2020,0,25-01-2020 00:00,,22-01-2020,0,1,fever,positive
+1/28/2020,Taiwan,Taiwan,female,70,25-01-2020,0,25-01-2020 00:00,,22-01-2020,0,1,fever,positive
+1/28/2020,Taiwan,Taiwan,male,55,26-01-2020,0,,,,0,0,cough,negative
+1/30/2020,Taiwan,Taiwan,male,,12-01-2020,1,,,,1,0,"cough, runny nose",negative
+1/31/2020,Taiwan,Taiwan,female,,27-01-2020,0,28-01-2020 00:00,,,0,0,,negative
+02-05-2020,Taiwan,Taiwan,male,55,,,,,02-02-2020,1,0,,negative
+02-06-2020,Taiwan,Taiwan,male,45,03-02-2020,0,04-02-2020 00:00,,17-01-2020,1,0,"fever, cough, headache",positive
+02-06-2020,Taiwan,Taiwan,female,25,01-02-2020,0,04-02-2020 00:00,,21-01-2020,0,1,"cough, chest pain",positive
+02-06-2020,Taiwan,Taiwan,male,55,26-01-2020,0,01-02-2020 00:00,,,0,0,"fever, cough",positive
+02-06-2020,Taiwan,Taiwan,female,55,28-01-2020,0,03-02-2020 00:00,,,0,0,cough,negative
+02-06-2020,Taiwan,Taiwan,female,45,01-02-2020,0,03-02-2020 00:00,,,0,0,"fever, chills, sore throat, runny nose, shortness of breath",negative
+02-08-2020,Taiwan,Taiwan,male,25,27-01-2020,0,,,,0,0,,positive
+02-08-2020,Taiwan,Taiwan,male,25,,,,,,0,0,,negative
+2/16/2020,Taiwan,Taiwan,male,65,27-01-2020,0,03-02-2020 00:00,,,0,0,"cough, shortness of breath",may infected
+2/16/2020,Taiwan,Taiwan,male,55,,,,,,0,0,,positive
+2/17/2020,Taiwan,Taiwan,female,85,06-02-2020,0,,,,0,0,,negative
+2/17/2020,Taiwan,Taiwan,male,35,28-01-2020,0,,27-01-2020,27-01-2020,0,0,"fever, cough",negative
+2/19/2020,Taiwan,Taiwan,female,65,,,,27-01-2020,27-01-2020,0,0,,negative
+2/20/2020,Taiwan,Taiwan,female,60,22-01-2020,0,,,,0,0,"fever, cough",negative
+2/21/2020,Taiwan,Taiwan,female,45,28-01-2020,0,30-01-2020 00:00,,,0,0,"fever, cough",positive
+2/21/2020,Taiwan,Taiwan,female,25,,,03-02-2020 00:00,,,0,0,reflux,positive
+2/23/2020,Taiwan,Taiwan,male,85,,,,,,0,0,,negative
+2/23/2020,Taiwan,Taiwan,male,55,,,,,,0,0,throat discomfort,negative
+2/24/2020,Taiwan,Taiwan,male,45,29-01-2020,0,,,,0,0,physical discomfort,positive
+2/24/2020,Taiwan,Taiwan,female,75,06-02-2020,0,06-02-2020 00:00,,,0,0,,positive
+2/25/2020,Taiwan,Taiwan,male,,,,,,,0,0,,negative
+2/26/2020,Taiwan,Taiwan,female,35,,,24-02-2020 00:00,11-02-2020,16-02-2020,0,0,throat discomfort,negative
+2/28/2020,Taiwan,Taiwan,male,35,25-02-2020,0,,17-02-2020,22-02-2020,0,0,"cough, itchy throat",negative
+2/28/2020,Taiwan,Taiwan,female,55,,,,,,0,0,,positive
+1/13/2020,Thailand,Thailand,female,61,05-01-2020,0,08-01-2020 00:00,,08-01-2020,0,1,"fever, chills, sore throat, headache",may infected
+1/17/2020,Thailand,Thailand,female,74,13-01-2020,1,13-01-2020 00:00,,13-01-2020,0,1,,negative
+1/22/2020,Thailand,Thailand,male,68,19-01-2020,1,19-01-2020 00:00,,,1,0,fever,may infected
+1/22/2020,Thailand,Thailand,male,,19-01-2020,1,19-01-2020 00:00,,,1,0,fever,positive
+1/24/2020,Thailand,Thailand,female,33,23-01-2020,1,23-01-2020 00:00,,21-01-2020,1,0,"fever, coughing, muscle aches",negative
+1/26/2020,Thailand,Thailand,female,57,,,,,,0,1,fever,negative
+1/26/2020,Thailand,Thailand,female,73,,,,,,0,1,fever,negative
+1/28/2020,Thailand,Thailand,,6,,,,,,0,1,fever,positive
+1/28/2020,Thailand,Thailand,,60,,,,,,0,1,"fever, cough",positive
+1/28/2020,Thailand,Thailand,,,,,,,,0,1,chills,negative
+1/28/2020,Thailand,Thailand,,,,,,,,0,1,fever,positive
+1/28/2020,Thailand,Thailand,,,,,,,,0,1,cough,may infected
+1/28/2020,Thailand,Thailand,,,,,,,,0,0,"fever, respiratory distress",positive
+1/30/2020,Thailand,Thailand,,,,,,,,1,0,"fever, malaise",positive
+1/31/2020,Thailand,Thailand,,,,,,,,1,0,"fever, malaise",positive
+1/31/2020,Thailand,Thailand,,,,,,,,1,0,"fever, sore throat",negative
+1/31/2020,Thailand,Thailand,,,,,,,,1,0,"mild cough, sputum, throat discomfort",negative
+1/31/2020,Thailand,Thailand,,,,,,,,1,0,"cough, sneeze",positive
+02-04-2020,Thailand,Thailand,,,,,,,,0,0,"fatigue, fever",negative
+02-04-2020,Thailand,Thailand,,,,,,,,0,0,sore throat,positive
+02-04-2020,Thailand,Thailand,,,,,,,,0,0,fever,negative
+02-04-2020,Thailand,Thailand,male,70,,,,,,0,0,fever,negative
+02-04-2020,Thailand,Thailand,,,,,,,,0,0,"fever, cough, sore throat",positive
+02-08-2020,Thailand,Thailand,,,,,,,04-02-2020,1,0,"sore throat, fever, diarrhea",may infected
+02-08-2020,Thailand,Thailand,,,,,,,,0,0,"cough, malaise",negative
+02-08-2020,Thailand,Thailand,,,,,,,,0,0,"fever, cough",positive
+02-08-2020,Thailand,Thailand,,,,,,,,0,0,"fever, cough",negative
+02-08-2020,Thailand,Thailand,,,,,,,,0,0,"fever, cough",negative
+02-08-2020,Thailand,Thailand,,,,,,,,0,0,"fever, cough",negative
+02-08-2020,Thailand,Thailand,,,,,,,,0,0,"cough, chills, shortness of breath, diarrhea",negative
+02-11-2020,Thailand,Thailand,female,54,,,06-02-2020 00:00,,,0,1,fever,positive
+2/15/2020,Thailand,Thailand,female,35,,,,,,0,0,"cough, chills, joint pain",negative
+2/16/2020,Thailand,Thailand,female,60,,,,,,0,0,"fever, cough",negative
+2/25/2020,Thailand,Thailand,female,31,,,,,,0,0,"fever, cough",positive
+2/25/2020,Thailand,Thailand,male,29,,,,,,0,0,"throat pain, fever",negative
+2/26/2020,Thailand,Thailand,male,,,,23-02-2020 00:00,,,0,0,fever,negative
+2/26/2020,Thailand,Thailand,female,,,,,,,0,0,,positive
+2/26/2020,Thailand,Thailand,male,8,,,,,,0,0,,negative
+2/28/2020,Thailand,Thailand,male,25,,,25-02-2020 00:00,,,0,0,"fever, cough",negative
+1/26/2020,California,USA,male,,22-01-2020,0,22-01-2020 00:00,,,0,1,cough,positive
+1/26/2020,California,USA,,,,,,,,1,0,"fatigue, fever, headache",positive
+1/26/2020,Arizona,USA,,,,,,,,1,0,,negative
+1/31/2020,California,USA,male,,,,,,24-01-2020,1,0,,negative
+1/31/2020,Massachusetts,USA,male,25,29-01-2020,1,,,29-01-2020,1,0,,negative
+02-03-2020,California,USA,male,57,25-01-2020,0,,18-01-2020,24-01-2020,1,0,"cough, fever",positive
+02-03-2020,California,USA,female,57,29-01-2020,0,,24-01-2020,,0,0,,positive
+02-03-2020,California,USA,female,,,,,,23-01-2020,1,0,"fever, cough",negative
+02-05-2020,Wisconsin,USA,,,,,,,,0,0,cough with sputum,positive
+02-10-2020,California,USA,,,,,,,07-02-2020,1,0,cough,may infected
+02-12-2020,California,USA,,,,,,,07-02-2020,1,0,"fatigue, fever, headache",negative
+2/13/2020,Texas,USA,,,,,,,07-02-2020,1,0,,negative
+2/20/2020,California,USA,,,,,,,,0,0,,negative
+2/21/2020,California,USA,,,,,,,02-02-2020,0,0,,negative
+2/27/2020,California,USA,,,,,,,,0,0,,positive
+1/30/2020,Hanoi,Vietnam,,,,,,,,1,0,"cough, sore throat",negative
+1/30/2020,Hanoi,Vietnam,,,,,,,,1,0,"fever, cough, sore throat",may infected
+1/30/2020,Thanh Hoa,Vietnam,,,,,,,,1,0,"sore throat, fever, diarrhea",positive
+02-03-2020,Vietnam,Vietnam,,,,,,,,1,0,"cough, malaise",negative
+02-03-2020,Vietnam,Vietnam,,,,,,,,1,0,"fever, cough",negative
+02-03-2020,Vietnam,Vietnam,,,,,,,,1,0,"fever, cough",positive
+1/29/2020,Queensland,Australia,male,44,28-01-2020,0,28-01-2020 00:00,,,0,1,"fever, respiratory distress",negative
+1/29/2020,Victoria,Australia,male,65,23-01-2020,0,,,21-01-2020,1,0,"fever, malaise",positive
+1/30/2020,Victoria,Australia,female,45,25-01-2020,1,,,,0,1,"fever, malaise",negative
+1/31/2020,Queensland,Australia,female,42,,,,,27-01-2020,0,1,"fever, sore throat",negative
+02-01-2020,South Australia,Australia,male,60,,,,,21-01-2020,0,1,"mild cough, sputum, throat discomfort",negative
+02-01-2020,South Australia,Australia,female,60,,,,,21-01-2020,0,1,"cough, sneeze",negative
+02-01-2020,Victoria,Australia,female,25,27-01-2020,0,30-01-2020 00:00,,25-01-2020,1,0,"fever, chills, joint pain, heavy head",negative
+02-04-2020,Queensland,Australia,male,8,,,,,,0,1,"fatigue, fever",negative
+02-05-2020,Queensland,Australia,male,37,,,,,,0,1,sore throat,positive
+02-06-2020,Queensland,Australia,female,37,,,,,,0,1,fever,negative
+1/27/2020,Toronto,Canada,female,55,,,,,22-01-2020,1,0,,negative
+1/28/2020,Vancouver,Canada,male,45,26-01-2020,1,26-01-2020 00:00,,,1,0,fever,negative
+02-01-2020,Toronto,Canada,female,25,24-01-2020,0,24-01-2020 00:00,,23-01-2020,1,0,"fever, cough",positive
+02-05-2020,Vancouver,Canada,female,55,,,,,,0,0,"fever, runny nose",negative
+02-06-2020,Vancouver,Canada,male,35,,,,,,0,1,fever,negative
+02-06-2020,Vancouver,Canada,female,35,,,,,,0,1,fever,negative
+2/14/2020,Vancouver,Canada,female,35,,,,,,0,0,fever,positive
+2/21/2020,Vancouver,Canada,female,35,,,,,,0,0,"headache, fever, malaise",positive
+2/24/2020,Toronto,Canada,female,25,,,,,21-02-2020,1,0,"sore throat, fever",positive
+2/24/2020,Vancouver,Canada,male,45,,,,,,0,0,fever,negative
+2/27/2020,Toronto,Canada,female,65,,,,,,0,0,cough,negative
+1/27/2020,Preah Sihanouk Province,Cambodia,male,60,25-01-2020,0,,,23-01-2020,0,1,"fever, malaise",negative
+1/28/2020,Bavaria,Germany,male,33,24-01-2020,0,,20-01-2020,21-01-2020,0,0,"fever, cough",negative
+1/29/2020,Bavaria,Germany,,,25-01-2020,0,,20-01-2020,21-01-2020,0,0,"fever, cough, malaise",negative
+1/29/2020,Bavaria,Germany,,,26-01-2020,0,,20-01-2020,21-01-2020,0,0,"throat discomfort, cough, chest pain",positive
+1/29/2020,Bavaria,Germany,,,27-01-2020,0,,21-01-2020,24-01-2020,0,0,"fever, cough, sputum, dyspnea",negative
+1/30/2020,Bavaria,Germany,male,,,,,,,0,0,"fever, cough, sputum, dyspnea",negative
+1/31/2020,Bavaria,Germany,,,,,,,,0,0,"fever, cough, sputum",may infected
+1/31/2020,Bavaria,Germany,male,52,,,,,,0,0,"fever, thirst",negative
+02-01-2020,Bavaria,Germany,male,33,,,,,,0,0,fever,positive
+02-02-2020,Frankfurt,Germany,,,,,,,01-02-2020,1,0,"fever, cough, runny nose",negative
+02-02-2020,Frankfurt,Germany,,,,,,,01-02-2020,1,0,"fever, cough, malaise",negative
+02-05-2020,Bavaria,Germany,,,,,,,,0,0,"fever, cough, sore throat, runny nose",positive
+02-05-2020,Bavaria,Germany,male,58,,,,,,0,0,"malaise, fever, headache",may infected
+02-06-2020,Bavaria,Germany,female,,,,,,,0,0,"throat pain, chills",positive
+02-07-2020,Bavaria,Germany,female,,,,,,,0,0,fever,positive
+02-11-2020,Bavaria,Germany,male,49,,,,,,0,0,"cough, sore throat",positive
+02-11-2020,Bavaria,Germany,,,,,,,,0,0,"fever, cough, sore throat",negative
+2/26/2020,Baden-Wuerttemberg,Germany,male,25,,,24-02-2020 00:00,,,0,0,"sore throat, fever, diarrhea",negative
+2/26/2020,Tubingen,Germany,male,60,,,,,,0,0,"cough, malaise",negative
+2/26/2020,Tubingen,Germany,female,24,,,,,,0,0,"fever, cough",negative
+2/26/2020,Baden-Wuerttemberg,Germany,male,32,,,,,23-02-2020,0,0,"fever, cough",negative
+2/26/2020,North Rhine-Westphalia,Germany,male,47,16-02-2020,0,24-02-2020 00:00,,,0,0,"fever, cough",negative
+2/26/2020,North Rhine-Westphalia,Germany,female,46,,,,,,0,0,"fever, cough",negative
+2/26/2020,North Rhine-Westphalia,Germany,male,41,20-02-2020,0,26-02-2020 00:00,15-02-2020,15-02-2020,0,0,"cough, chills, shortness of breath, diarrhea",may infected
+2/26/2020,North Rhine-Westphalia,Germany,,,,,,,,0,0,"cough, runny nose, diarrhea",negative
+2/26/2020,North Rhine-Westphalia,Germany,,,,,,,,0,0,cough,positive
+2/26/2020,North Rhine-Westphalia,Germany,,,,,,,,0,0,"fever, malaise",negative
+2/27/2020,North Rhine-Westphalia,Germany,,,,,,,,0,0,"fever, cough",negative
+2/27/2020,North Rhine-Westphalia,Germany,,,,,,,,0,0,"fever, cough",negative
+2/27/2020,North Rhine-Westphalia,Germany,,,,,,,,0,0,"fever, cough, malaise",negative
+2/27/2020,North Rhine-Westphalia,Germany,,,,,,,,0,0,"throat discomfort, cough, chest pain",negative
+2/27/2020,North Rhine-Westphalia,Germany,,,,,,,,0,0,"fever, cough, sputum, dyspnea",may infected
+2/27/2020,North Rhine-Westphalia,Germany,,,,,,,,0,0,"fever, cough, sputum, dyspnea",negative
+2/27/2020,North Rhine-Westphalia,Germany,,,,,,,,0,0,"fever, cough, sputum",negative
+2/27/2020,North Rhine-Westphalia,Germany,,,,,,,,0,0,"fever, thirst",negative
+2/27/2020,North Rhine-Westphalia,Germany,,,,,,,,0,0,fever,positive
+2/27/2020,North Rhine-Westphalia,Germany,,,,,,,,0,0,"fever, cough, runny nose",negative
+2/27/2020,North Rhine-Westphalia,Germany,,,,,,,,0,0,"fever, respiratory symptoms",negative
+2/27/2020,North Rhine-Westphalia,Germany,,,,,,,,0,0,fever,may infected
+2/27/2020,North Rhine-Westphalia,Germany,,,,,,,,0,0,"cough, runny nose, diarrhea",may infected
+2/27/2020,North Rhine-Westphalia,Germany,,,,,,,,0,0,fever,negative
+2/27/2020,Hamburg,Germany,male,,26-02-2020,0,27-02-2020 00:00,,,0,0,"cough, sore throat",negative
+2/27/2020,Baden-Wuerttemberg,Germany,female,,,,,,,0,0,"fever, cough, sore throat",negative
+2/27/2020,Baden-Wuerttemberg,Germany,female,,,,,,,0,0,"sore throat, fever, diarrhea",negative
+2/27/2020,Baden-Wuerttemberg,Germany,male,,,,,,,0,0,"cough, malaise",negative
+2/27/2020,Baden-Wuerttemberg,Germany,male,,,,,,,0,0,"fever, cough",positive
+2/27/2020,Rhineland-Palatinate,Germany,,,,,,,,0,0,"fever, cough",negative
+2/27/2020,Bavaria,Germany,male,,,,,,,0,0,"fever, cough",negative
+2/27/2020,Hesse,Germany,male,31,,,,,,0,0,"fever, cough",negative
+2/28/2020,Baden-Wuerttemberg,Germany,male,,,,,,,0,0,"cough, chills, shortness of breath, diarrhea",positive
+2/28/2020,Baden-Wuerttemberg,Germany,male,,,,,,,0,0,fever,may infected
+2/28/2020,Baden-Wuerttemberg,Germany,male,,,,,,,0,0,"cough, chills, joint pain",may infected
+2/28/2020,Baden-Wuerttemberg,Germany,male,,,,,,,0,0,"fever, cough",positive
+2/28/2020,Baden-Wuerttemberg,Germany,male,32,23-02-2020,0,,21-02-2020,21-02-2020,0,0,"fever, cough",positive
+2/28/2020,North Rhine-Westphalia,Germany,female,,,,,15-02-2020,15-02-2020,0,0,"throat pain, fever",negative
+02-01-2020,UAE,UAE,,,,,,,,1,0,"sore throat, fever, diarrhea",negative
+02-08-2020,UAE,UAE,,,,,,,,0,0,"cough, malaise",negative
+02-08-2020,UAE,UAE,,,,,,,,0,0,"fever, cough",may infected
+02-10-2020,UAE,UAE,,,,,,,,0,0,"fever, cough",positive
+2/16/2020,UAE,UAE,male,37,,,,,,0,0,"fever, cough",positive
+2/21/2020,UAE,UAE,,34,,,,,,0,0,"fever, cough",positive
+2/21/2020,UAE,UAE,,39,,,,,,0,0,"cough, chills, shortness of breath, diarrhea",may infected
+2/22/2020,UAE,UAE,male,70,,,,,,0,0,,negative
+2/22/2020,UAE,UAE,female,64,,,,,,0,0,,negative
+2/27/2020,UAE,UAE,,,,,,,,0,0,,negative
+2/27/2020,UAE,UAE,,,,,,,,0,0,"fever, cough",may infected
+2/27/2020,UAE,UAE,,,,,,,,0,0,cough with sputum,may infected
+2/27/2020,UAE,UAE,,,,,,,,0,0,cough,negative
+2/27/2020,UAE,UAE,,,,,,,,0,0,"fatigue, fever, headache",negative
+2/27/2020,UAE,UAE,,,,,,,,0,0,"fever, cough",negative
+2/28/2020,UAE,UAE,,,,,,,,0,0,cough with sputum,may infected
+2/28/2020,UAE,UAE,,,,,,,,0,0,cough,may infected
+1/22/2020,Hong Kong,Hong Kong,male,39,21-01-2020,1,22-01-2020 00:00,,,0,1,"fatigue, fever, headache",negative
+1/22/2020,Hong Kong,Hong Kong,male,56,18-01-2020,0,19-01-2020 00:00,10-01-2020,19-01-2020,1,0,,positive
+1/24/2020,Hong Kong,Hong Kong,female,62,20-01-2020,0,23-01-2020 00:00,,19-01-2020,0,1,"fever, cough",negative
+1/24/2020,Hong Kong,Hong Kong,female,62,23-01-2020,0,23-01-2020 00:00,,22-01-2020,0,1,feve,may infected
+1/24/2020,Hong Kong,Hong Kong,male,63,23-01-2020,0,23-01-2020 00:00,,22-01-2020,0,1,"fever, cough",positive
+1/27/2020,Hong Kong,Hong Kong,male,47,20-01-2020,0,21-01-2020 00:00,,23-01-2020,0,1,fever,may infected
+1/27/2020,Hong Kong,Hong Kong,female,68,21-01-2020,0,25-01-2020 00:00,,25-01-2020,1,0,fever,may infected
+1/27/2020,Hong Kong,Hong Kong,male,64,25-01-2020,0,25-01-2020 00:00,,19-01-2020,0,1,fever,positive
+1/29/2020,Hong Kong,Hong Kong,female,73,28-01-2020,1,28-01-2020 00:00,,22-01-2020,1,0,,positive
+1/29/2020,Hong Kong,Hong Kong,male,72,28-01-2020,1,28-01-2020 00:00,,22-01-2020,1,0,,negative
+1/30/2020,Yau Ma Tei,Hong Kong,female,37,28-01-2020,0,30-01-2020 00:00,22-01-2020,28-01-2020,0,0,cough,negative
+1/30/2020,Tsing Yi,Hong Kong,male,75,22-01-2020,0,24-01-2020 00:00,,,0,0,"cough, shortness of breath",positive
+1/31/2020,Kowloon,Hong Kong,male,39,31-01-2020,0,31-01-2020 00:00,21-01-2020,23-01-2020,1,0,"myalgia, fever",positive
+02-02-2020,Hong Kong,Hong Kong,male,80,19-01-2020,0,30-01-2020 00:00,10-01-2020,10-01-2020,0,0,fever,may infected
+02-02-2020,Kowloon,Hong Kong,female,72,01-02-2020,0,01-02-2020 00:00,23-01-2020,31-01-2020,0,0,"fever, cough",may infected
+02-04-2020,Kowloon,Hong Kong,female,64,23-01-2020,0,23-01-2020 00:00,,,0,0,cough,may infected
+02-04-2020,Hong Kong,Hong Kong,male,60,22-01-2020,0,30-01-2020 00:00,,,0,0,"fever, myalgia, shortness of breath",may infected
+02-05-2020,Kwun Tong,Hong Kong,female,56,04-02-2020,0,04-02-2020 00:00,,,0,0,fever,positive
+02-05-2020,Kwun Tong,Hong Kong,female,28,30-01-2020,0,04-02-2020 00:00,,,0,0,"cough, sore throat",negative
+02-05-2020,Kwai Chung,Hong Kong,male,56,30-01-2020,0,01-02-2020 00:00,,,0,0,"fever, cough, sore throat",negative
+02-06-2020,Kwai Chung,Hong Kong,female,55,01-02-2020,0,02-02-2020 00:00,,,0,0,"sore throat, fever, diarrhea",positive
+02-06-2020,Hong Kong,Hong Kong,female,63,26-01-2020,0,05-02-2020 00:00,,,0,0,"cough, malaise",negative
+02-06-2020,Hong Kong,Hong Kong,female,65,28-01-2020,0,29-01-2020 00:00,,,0,0,"fever, cough",positive
+02-07-2020,Zhuhai,Hong Kong,male,58,04-02-2020,0,06-02-2020 00:00,,05-02-2020,0,0,"fever, cough",may infected
+02-07-2020,Fo Tan,Hong Kong,male,42,03-02-2020,0,03-02-2020 00:00,22-01-2020,02-02-2020,0,0,"fever, cough",negative
+02-09-2020,Wan Chai,Hong Kong,male,24,30-01-2020,0,30-01-2020 00:00,,,0,0,"fever, cough",negative
+02-09-2020,Ngau Chi Wan,Hong Kong,male,70,30-01-2020,0,01-02-2020 00:00,,,0,0,fever,negative
+02-09-2020,Hong Kong,Hong Kong,male,68,,,,26-01-2020,26-01-2020,0,0,fever,negative
+02-09-2020,Hong Kong,Hong Kong,female,57,,,,26-01-2020,26-01-2020,0,0,"fever, cough",may infected
+02-09-2020,Hong Kong,Hong Kong,female,91,,,,26-01-2020,26-01-2020,0,0,chills,positive
+02-09-2020,Hong Kong,Hong Kong,female,51,,,,26-01-2020,26-01-2020,0,0,fever,negative
+02-09-2020,Hong Kong,Hong Kong,female,25,,,,26-01-2020,26-01-2020,0,0,cough,positive
+02-09-2020,Hong Kong,Hong Kong,male,22,,,,26-01-2020,26-01-2020,0,0,"fever, respiratory distress",negative
+02-09-2020,Hong Kong,Hong Kong,female,50,,,,26-01-2020,26-01-2020,0,0,"fever, malaise",negative
+02-09-2020,Hong Kong,Hong Kong,male,23,,,,26-01-2020,26-01-2020,0,0,"fever, malaise",negative
+02-10-2020,Hong Kong,Hong Kong,female,55,30-01-2020,0,30-01-2020 00:00,26-01-2020,26-01-2020,0,0,"fever, sore throat",negative
+02-10-2020,Hong Kong,Hong Kong,male,52,08-02-2020,0,09-02-2020 00:00,26-01-2020,26-01-2020,0,0,"mild cough, sputum, throat discomfort",negative
+02-10-2020,Hong Kong,Hong Kong,male,69,30-01-2020,0,07-02-2020 00:00,,,0,0,"cough, sneeze",negative
+02-10-2020,Hong Kong,Hong Kong,female,63,30-01-2020,0,31-01-2020 00:00,,,0,0,"fever, chills, joint pain, heavy head",negative
+02-10-2020,Hong Kong,Hong Kong,female,86,28-01-2020,0,09-02-2020 00:00,,,0,0,"fatigue, fever",may infected
+02-10-2020,Hong Kong,Hong Kong,female,62,03-02-2020,0,03-02-2020 00:00,,,0,0,sore throat,may infected
+02-11-2020,Hong Kong,Hong Kong,male,59,02-02-2020,0,06-02-2020 00:00,,,0,0,fever,negative
+02-11-2020,Hong Kong,Hong Kong,female,60,01-02-2020,0,02-02-2020 00:00,,,0,0,fever,negative
+02-11-2020,Hong Kong,Hong Kong,male,71,05-02-2020,0,10-02-2020 00:00,,,0,0,,positive
+02-11-2020,Hong Kong,Hong Kong,male,37,30-01-2020,0,30-01-2020 00:00,,,0,0,,negative
+02-11-2020,Hong Kong,Hong Kong,male,66,31-01-2020,0,01-02-2020 00:00,,,0,0,,negative
+02-11-2020,Hong Kong,Hong Kong,female,37,02-02-2020,0,03-02-2020 00:00,,,0,0,,negative
+02-11-2020,Hong Kong,Hong Kong,male,75,03-02-2020,0,03-02-2020 00:00,,,0,0,,negative
+02-12-2020,Hong Kong,Hong Kong,male,51,03-02-2020,0,10-02-2020 00:00,,,0,0,fever,negative
+2/13/2020,Hong Kong,Hong Kong,male,43,29-01-2020,0,31-01-2020 00:00,30-01-2020,30-01-2020,0,0,"cough, diarrhea, vomiting",negative
+2/13/2020,Hong Kong,Hong Kong,female,67,31-01-2020,0,31-01-2020 00:00,26-01-2020,26-01-2020,0,0,"cough, fever, chills",negative
+2/13/2020,Hong Kong,Hong Kong,male,37,08-02-2020,0,09-02-2020 00:00,26-01-2020,26-01-2020,0,0,fever,negative
+2/14/2020,Hong Kong,Hong Kong,female,41,,,,26-01-2020,26-01-2020,0,0,,negative
+2/14/2020,Hong Kong,Hong Kong,male,70,02-02-2020,0,12-02-2020 00:00,,,0,0,cough,negative
+2/14/2020,Hong Kong,Hong Kong,female,,,,,,,0,0,,may infected
+2/16/2020,Hong Kong,Hong Kong,male,54,,,07-02-2020 00:00,,,0,0,fever,positive
+2/17/2020,Hong Kong,Hong Kong,male,69,08-02-2020,0,08-02-2020 00:00,,,0,0,"cough, shortness of breath",negative
+2/17/2020,Hong Kong,Hong Kong,male,45,12-02-2020,0,13-02-2020 00:00,,,0,0,"fever, sore throat",negative
+2/17/2020,Hong Kong,Hong Kong,female,46,08-02-2020,0,10-02-2020 00:00,,,0,0,"runny nose, cough",positive
+2/18/2020,Hong Kong,Hong Kong,female,32,02-02-2020,0,,,,0,0,"fever, cough",negative
+2/18/2020,Hong Kong,Hong Kong,male,58,,,,,,0,0,"fever, respiratory distress",negative
+2/19/2020,Hong Kong,Hong Kong,female,83,,,,,,0,0,"fever, malaise",negative
+2/19/2020,Hong Kong,Hong Kong,female,83,14-02-2020,0,,,,0,0,"fever, malaise",negative
+2/19/2020,Hong Kong,Hong Kong,male,68,12-02-2020,0,18-02-2020 00:00,,,0,0,"fever, sore throat",negative
+2/19/2020,Hong Kong,Hong Kong,female,70,12-02-2020,0,18-02-2020 00:00,,,0,0,"mild cough, sputum, throat discomfort",may infected
+2/20/2020,Hong Kong,Hong Kong,male,75,25-01-2020,0,31-01-2020 00:00,,,0,0,"cough, sneeze",may infected
+2/20/2020,Hong Kong,Hong Kong,female,38,10-02-2020,0,10-02-2020 00:00,,,0,0,"fever, chills, joint pain, heavy head",negative
+2/20/2020,Hong Kong,Hong Kong,male,58,08-02-2020,0,10-02-2020 00:00,,,0,0,"fatigue, fever",negative
+2/20/2020,Hong Kong,Hong Kong,male,48,18-02-2020,0,19-02-2020 00:00,,,0,0,sore throat,negative
+2/22/2020,Hong Kong,Hong Kong,female,96,13-02-2020,0,22-02-2020 00:00,,,0,0,fever,negative
+2/23/2020,Hong Kong,Hong Kong,male,68,20-02-2020,0,22-02-2020 00:00,25-01-2020,20-02-2020,0,0,fever,positive
+2/23/2020,Hong Kong,Hong Kong,male,62,10-02-2020,0,22-02-2020 00:00,,,0,0,,may infected
+2/23/2020,Hong Kong,Hong Kong,female,80,08-02-2020,0,22-02-2020 00:00,,,0,0,fever,may infected
+2/23/2020,Hong Kong,Hong Kong,female,76,13-02-2020,0,22-02-2020 00:00,,,0,0,"fever, cough",positive
+2/24/2020,Hong Kong,Hong Kong,male,35,19-02-2020,0,21-02-2020 00:00,,,0,0,"fever, runny nose",negative
+2/24/2020,Hong Kong,Hong Kong,female,57,08-02-2020,0,12-02-2020 00:00,,,0,0,fever,negative
+2/24/2020,Hong Kong,Hong Kong,female,68,19-02-2020,0,23-02-2020 00:00,,,0,0,"fever, cough",negative
+2/24/2020,Hong Kong,Hong Kong,female,59,24-02-2020,0,,25-01-2020,21-02-2020,0,0,cough with sputum,negative
+2/24/2020,Hong Kong,Hong Kong,female,58,04-02-2020,0,,25-01-2020,21-02-2020,0,0,cough,negative
+2/24/2020,Hong Kong,Hong Kong,male,57,,,,25-01-2020,21-02-2020,0,0,"fatigue, fever, headache",negative
+2/24/2020,Hong Kong,Hong Kong,female,57,,,,25-01-2020,21-02-2020,0,0,,may infected
+2/25/2020,Hong Kong,Hong Kong,male,33,20-02-2020,0,,,,0,0,,may infected
+2/25/2020,Hong Kong,Hong Kong,female,55,17-02-2020,,,,,0,0,,negative
+2/25/2020,Hong Kong,Hong Kong,male,24,,,,,,0,0,,negative
+2/25/2020,Hong Kong,Hong Kong,female,60,12-02-2020,0,24-02-2020 00:00,,,0,0,cough,negative
+2/26/2020,Hong Kong,Hong Kong,female,49,18-02-2020,0,22-02-2020 00:00,,,0,0,"cough, sputum, sore throat",negative
+2/26/2020,Hong Kong,Hong Kong,female,21,12-02-2020,0,25-02-2020 00:00,25-01-2020,22-02-2020,0,0,fever,positive
+2/26/2020,Hong Kong,Hong Kong,male,16,17-02-2020,0,25-02-2020 00:00,25-01-2020,22-02-2020,0,0,runny nose,negative
+2/26/2020,Hong Kong,Hong Kong,male,80,25-02-2020,0,25-02-2020 00:00,,,0,0,"fever, cough",may infected
+2/26/2020,Hong Kong,Hong Kong,female,29,16-02-2020,0,20-02-2020 00:00,,,0,0,,may infected
+2/26/2020,Hong Kong,Hong Kong,male,26,20-02-2020,0,21-02-2020 00:00,,,0,0,"fever, cough",negative
+2/27/2020,Hong Kong,Hong Kong,female,70,13-02-2020,0,13-02-2020 00:00,,,0,0,cough with sputum,negative
+2/27/2020,Hong Kong,Hong Kong,female,89,25-02-2020,0,26-02-2020 00:00,,,0,0,cough,negative
+1/31/2020,Rome,Italy,male,,,,,,,1,0,"fatigue, fever, headache",positive
+1/31/2020,Rome,Italy,female,,,,,,,1,0,,negative
+02-06-2020,Rome,Italy,male,35,,,,,03-02-2020,1,0,fever,positive
+1/31/2020,York,UK,,,,,,,,1,0,fever,negative
+1/31/2020,York,UK,,,,,,,,1,0,fever,negative
+02-12-2020,London,UK,female,,,,,24-01-2020,28-01-2020,0,0,fever,negative
+2/23/2020,UK,UK,,,,,,,,0,0,cough,negative
+2/23/2020,UK,UK,,,,,,,,0,0,"fever, respiratory distress",negative
+2/23/2020,UK,UK,,,,,,,,0,0,"fever, malaise",negative
+2/23/2020,UK,UK,,,,,,,,0,0,"fever, malaise",negative
+2/27/2020,London,UK,,,,,,,,0,0,"fever, sore throat",negative
+2/27/2020,London,UK,,,,,,,,0,0,"mild cough, sputum, throat discomfort",may infected
+2/27/2020,Nortern Ireland,UK,,,,,,,,0,0,"cough, sneeze",negative
+2/28/2020,UK,UK,,,,,,,,0,0,"fever, chills, joint pain, heavy head",may infected
+2/28/2020,UK,UK,,,,,,,,0,0,"fatigue, fever",negative
+2/28/2020,Wales,UK,female,,,,,,,0,0,sore throat,negative
+2/28/2020,UK,UK,male,,,,,,,0,0,fever,negative
+1/30/2020,Kerala,India,female,,,,,,,1,0,fever,positive
+02-02-2020,Alappuzha,India,,,,,,,24-01-2020,1,0,,negative
+02-03-2020,Kerala,India,,,,,,,,1,0,fever,negative
+02-02-2020,Manila,Phillipines,male,44,25-01-2020,1,25-01-2020 00:00,,21-01-2020,0,1,"fever, cough",negative
+2/24/2020,Tenerife,Spain,male,69,,,,,,0,0,"sore throat, fever",negative
+2/25/2020,Tenerife,Spain,female,,,,,,,0,0,fever,negative
+2/25/2020,Barcelona,Spain,female,36,,,24-02-2020 00:00,12-02-2020,22-02-2020,0,0,cough,negative
+2/25/2020,Madrid,Spain,,24,,,,,,0,0,"fever, malaise",negative
+2/25/2020,Castellon,Spain,male,31,,,,,,0,0,"fever, cough",may infected
+2/26/2020,Madrid,Spain,,,,,,,,0,0,"fever, cough",negative
+2/26/2020,Tenerife,Spain,,,,,,,,0,0,"fever, cough, malaise",positive
+2/26/2020,Tenerife,Spain,,,,,,,,0,0,"throat discomfort, cough, chest pain",negative
+2/26/2020,Barcelona,Spain,male,22,,,25-02-2020 00:00,,,0,0,"fever, cough, sputum, dyspnea",may infected
+2/26/2020,Andalusia,Spain,male,62,,,,,,0,0,"fever, cough, sputum, dyspnea",positive
+2/26/2020,Tenerife,Spain,female,,,,,04-02-2020,08-02-2020,0,0,"fever, cough, sputum",negative
+2/27/2020,Valencia,Spain,male,44,,,,19-02-2020,19-02-2020,0,0,"fever, thirst",negative
+2/27/2020,Madrid,Spain,,77,,,,,,0,0,fever,negative
+2/27/2020,Madrid,Spain,,50,,,,,,0,0,"fever, cough, runny nose",positive
+2/27/2020,Barcelona,Spain,female,22,,,,19-02-2020,25-02-2020,0,0,"fever, cough, malaise",negative
+2/27/2020,Castile and Leon,Spain,male,30,,,,,,0,0,"fever, cough, sore throat, runny nose",negative
+2/27/2020,Castile and Leon,Spain,,18,,,,,,0,0,"malaise, fever, headache",negative
+2/27/2020,Valencia,Spain,male,,,,,,,0,0,"throat pain, chills",positive
+2/27/2020,Valencia,Spain,male,,,,,,,0,0,fever,negative
+2/27/2020,Valencia,Spain,male,,,,,19-02-2020,19-02-2020,0,0,"fever, cough",negative
+2/27/2020,Valencia,Spain,male,,,,,19-02-2020,19-02-2020,0,0,"cough, chills, shortness of breath, diarrhea",positive
+2/27/2020,Valencia,Spain,female,,,,,,,0,0,"fever, cough, sore throat, runny nose",positive
+2/27/2020,Valencia,Spain,male,,,,,,,0,0,"malaise, fever, headache",negative
+2/28/2020,Andalusia,Spain,male,28,,,,,,0,0,"throat pain, chills",negative
+2/28/2020,Andalusia,Spain,male,42,,,,,,0,0,"malaise, fever, headache",positive
+2/28/2020,Andalusia,Spain,male,53,,,,,,0,0,"throat pain, chills",positive
+2/28/2020,Andalusia,Spain,,81,,,,,,0,0,fever,positive
+2/28/2020,Andalusia,Spain,male,55,,,,,,0,0,"fever, cough",positive
+2/28/2020,Andalusia,Spain,female,25,,,,,,0,0,"cough, chills, shortness of breath, diarrhea",negative
+2/28/2020,Andalusia,Spain,male,58,,,,,,0,0,fever,negative
+2/28/2020,Madrid,Spain,,66,,,28-02-2020 00:00,,,0,0,cough,negative
+2/28/2020,Zaragoza,Spain,female,27,,,,,,0,0,"fever, respiratory distress",negative
+1/31/2020,Jonkoping,Sweden,female,25,27-01-2020,1,,,24-01-2020,1,0,cough,positive
+02-04-2020,Belgium,Belgium,,,,,,,02-02-2020,1,0,"fever, malaise",negative
+2/19/2020,Qom,Iran,,,,,,,,0,0,"fever, cough",may infected
+2/19/2020,Qom,Iran,,,,,,,,0,0,"fever, cough, malaise",negative
+2/20/2020,Qom,Iran,,,,,,,,0,0,"throat discomfort, cough, chest pain",positive
+2/20/2020,Qom,Iran,,,,,,,,0,0,"fever, cough, sputum, dyspnea",negative
+2/20/2020,Araq,Iran,,,,,,,,0,0,"fever, cough, sputum, dyspnea",negative
+2/21/2020,Qom,Iran,,,,,,,,0,0,"fever, cough, sputum",negative
+2/21/2020,Qom,Iran,,,,,,,,0,0,"fever, thirst",negative
+2/21/2020,Qom,Iran,,,,,,,,0,0,fever,positive
+2/21/2020,Qom,Iran,,,,,,,,0,0,"fever, cough, runny nose",negative
+2/21/2020,Qom,Iran,,,,,,,,0,0,"fever, cough, malaise",negative
+2/21/2020,Qom,Iran,,,,,,,,0,0,"fever, cough, sore throat, runny nose",negative
+2/21/2020,Qom,Iran,,,,,,,,0,0,"malaise, fever, headache",negative
+2/21/2020,Tehran,Iran,,,,,,,,0,0,"throat pain, chills",positive
+2/21/2020,Tehran,Iran,,,,,,,,0,0,fever,negative
+2/21/2020,Tehran,Iran,,,,,,,,0,0,"fever, cough",may infected
+2/21/2020,Tehran,Iran,,,,,,,,0,0,"cough, chills, shortness of breath, diarrhea",negative
+2/21/2020,Guilan,Iran,,,,,,,,0,0,fever,negative
+2/21/2020,Guilan,Iran,,,,,,,,0,0,cough,may infected
+2/21/2020,Israel,Israel,female,,,,,,21-02-2020,0,0,"fever, respiratory distress",negative
+2/21/2020,Lebanon,Lebanon,female,45,,,,,20-02-2020,0,0,"fever, malaise",negative
+2/24/2020,Kuwait,Kuwait,,,,,,,,0,0,"fever, malaise",may infected
+2/24/2020,Kuwait,Kuwait,,,,,,,,0,0,"fever, sore throat",negative
+2/24/2020,Kuwait,Kuwait,,,,,,,,0,0,"mild cough, sputum, throat discomfort",negative
+2/24/2020,Kuwait,Kuwait,,,,,,,,0,0,"cough, sneeze",positive
+2/24/2020,Kuwait,Kuwait,,,,,,,,0,0,"fever, chills, joint pain, heavy head",negative
+2/25/2020,Kuwait,Kuwait,,,,,,,,0,0,"fatigue, fever",negative
+2/25/2020,Kuwait,Kuwait,,,,,,,,0,0,sore throat,negative
+2/25/2020,Kuwait,Kuwait,,,,,,,,0,0,fever,positive
+2/25/2020,Kuwait,Kuwait,female,,,,,,,0,0,fever,negative
+2/24/2020,Bahrain,Bahrain,,,,,,,,0,0,,may infected
+2/24/2020,Bahrain,Bahrain,,,,,,,,0,0,fever,may infected
+2/25/2020,Bahrain,Bahrain,male,,,,,,,0,0,"fever, cough",negative
+2/25/2020,Bahrain,Bahrain,female,,,,,,,0,0,"fever, runny nose",may infected
+2/25/2020,Bahrain,Bahrain,female,,,,,,,0,0,fever,may infected
+2/25/2020,Bahrain,Bahrain,female,,,,,,,0,0,fever,negative
+2/25/2020,Bahrain,Bahrain,female,,,,,,,0,0,fever,negative
+2/25/2020,Bahrain,Bahrain,female,,,,,,,0,0,"headache, fever, malaise",may infected
+2/25/2020,Bahrain,Bahrain,female,,,,,,,0,0,"sore throat, fever",negative
+2/25/2020,Bahrain,Bahrain,female,,,,,,,0,0,fever,negative
+2/25/2020,Bahrain,Bahrain,female,,,,,,,0,0,cough,negative
+2/25/2020,Bahrain,Bahrain,female,,,,,,,0,0,"fever, malaise",may infected
+2/25/2020,Bahrain,Bahrain,male,,,,,,,0,0,"fever, cough",negative
+2/25/2020,Bahrain,Bahrain,male,,,,,,,0,0,"fever, cough",negative
+2/25/2020,Bahrain,Bahrain,male,,,,,,,0,0,"fever, cough, malaise",negative
+2/25/2020,Bahrain,Bahrain,female,,,,,,,0,0,"throat discomfort, cough, chest pain",may infected
+2/25/2020,Bahrain,Bahrain,female,,,,,,,0,0,"fever, cough, sputum, dyspnea",negative
+2/25/2020,Innsbruck,Austria,,24,,,,,,0,0,"fever, cough, sputum, dyspnea",may infected
+2/25/2020,Innsbruck,Austria,,24,,,,,,0,0,"fever, cough, sputum",may infected
+2/24/2020,Afghanistan,Afghanistan,,35,,,,,,0,0,"fever, thirst",negative
+2/26/2020,Algeria,Algeria,male,,,,,,17-02-2020,0,0,fever,negative
+2/25/2020,Croatia,Croatia,male,,,,,19-02-2020,21-02-2020,0,0,"fever, cough, runny nose",negative
+2/25/2020,Bern,Switzerland,male,70,17-02-2020,,,15-02-2020,15-02-2020,0,0,"fever, cough, malaise",may infected
